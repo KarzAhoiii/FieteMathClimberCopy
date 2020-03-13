@@ -1,0 +1,10 @@
+[12/19/2017, 4:02:25 PM] layer ",": Expected Either a default asset specification or a layer asset specification but "," found.
+[12/19/2017, 4:08:06 PM] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[12/19/2017, 4:02:25 PM] layer "btn_back_mint.png copy": Expected end of input but "c" found.
+[12/19/2017, 4:02:25 PM] layer "btn_back_mint.png": Duplicate path: btn_back_mint.png
+[12/19/2017, 4:02:25 PM] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[12/19/2017, 4:02:25 PM] layer "btn_back_mint.png copy": Expected end of input but "c" found.
+[12/19/2017, 3:55:58 PM] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[12/19/2017, 3:55:58 PM] layer "btn_back_mint.png copy 2": Expected end of input but "c" found.
+[12/19/2017, 4:02:25 PM] layer "btn_back_mint.png copy 3": Expected end of input but "c" found.
+[12/19/2017, 3:55:58 PM] layer "btn_back_mint.png": Duplicate path: btn_back_mint.png

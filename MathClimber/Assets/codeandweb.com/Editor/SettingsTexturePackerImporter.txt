@@ -1,0 +1,9 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Sprites/Atlases/assets.tpsheet
+textureFileNames:
+- Assets/Sprites/Atlases/assets.png
+normalmapFileNames:
+- 
+enableDebugOutput: 0

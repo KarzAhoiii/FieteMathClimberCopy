@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62c56c0130ba1483d97d3bfe67d4dfbe, type: 3}
+  m_Name: FIeteCharacterProfile
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1871924498971448, guid: 29c034270b4714adba113f9a4c307251, type: 2}
+  portrait: {fileID: 1562714687028272, guid: a464e6a17dcfd4fa6acf800a176e37ec, type: 2}
+  particle: {fileID: 0}
+  primary: {r: 0.802, g: 0.13366663, b: 0.20953147, a: 1}
+  secondary: {r: 0.9686275, g: 0.16470589, b: 0.25490198, a: 1}
+  buttonColor: {r: 0.96862745, g: 0.16470589, b: 0.25490198, a: 1}
+  textcol: {r: 1, g: 1, b: 1, a: 1}
+  priceOverride: 600
+  isPurchased: 1
+  isLocked: 0
+  id: 0
+  rewardBonus: 0
+  jumpSound: {fileID: 8300000, guid: c6e8b11ee8d1a4aafb0b8cb5c3c2f6e1, type: 3}
+  jumpVoice: {fileID: 0}
+  fallVoice: {fileID: 0}
+  landSound: {fileID: 8300000, guid: 58e55e64878194b6b8b447dce1064066, type: 3}
+  specialVoice: {fileID: 8300000, guid: 7b014dba88b1644cb8a26290dcb6df1b, type: 3}
+  tapVoice: {fileID: 8300000, guid: 3a4e6812fd6bb47c9a4d0054017fd754, type: 3}

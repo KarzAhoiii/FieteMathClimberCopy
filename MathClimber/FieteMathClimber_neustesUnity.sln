@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FieteMathClimber_neustesUnity", "Assembly-CSharp.csproj", "{303C8051-1A59-C6BF-6901-0CD0B4145D2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FieteMathClimber_neustesUnity", "Assembly-CSharp-firstpass.csproj", "{A631F719-300C-2270-12E7-895444F3D094}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FieteMathClimber_neustesUnity", "Assembly-CSharp-Editor-firstpass.csproj", "{79E5F421-FFAB-EDF8-FF14-1DDF18BDEE53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FieteMathClimber_neustesUnity", "Assembly-CSharp-Editor.csproj", "{359A991E-F04A-6FB2-5416-0C7D58743B8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{303C8051-1A59-C6BF-6901-0CD0B4145D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{303C8051-1A59-C6BF-6901-0CD0B4145D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{303C8051-1A59-C6BF-6901-0CD0B4145D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{303C8051-1A59-C6BF-6901-0CD0B4145D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A631F719-300C-2270-12E7-895444F3D094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A631F719-300C-2270-12E7-895444F3D094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A631F719-300C-2270-12E7-895444F3D094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A631F719-300C-2270-12E7-895444F3D094}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79E5F421-FFAB-EDF8-FF14-1DDF18BDEE53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79E5F421-FFAB-EDF8-FF14-1DDF18BDEE53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79E5F421-FFAB-EDF8-FF14-1DDF18BDEE53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79E5F421-FFAB-EDF8-FF14-1DDF18BDEE53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{359A991E-F04A-6FB2-5416-0C7D58743B8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{359A991E-F04A-6FB2-5416-0C7D58743B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{359A991E-F04A-6FB2-5416-0C7D58743B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{359A991E-F04A-6FB2-5416-0C7D58743B8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

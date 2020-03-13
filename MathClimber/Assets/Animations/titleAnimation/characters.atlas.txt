@@ -1,0 +1,271 @@
+
+characters.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+alien
+  rotate: true
+  xy: 699, 563
+  size: 268, 458
+  orig: 268, 458
+  offset: 0, 0
+  index: -1
+astronaut
+  rotate: false
+  xy: 1417, 376
+  size: 281, 423
+  orig: 281, 423
+  offset: 0, 0
+  index: -1
+ballerina
+  rotate: true
+  xy: 714, 2
+  size: 223, 377
+  orig: 223, 377
+  offset: 0, 0
+  index: -1
+cowboy
+  rotate: true
+  xy: 916, 1708
+  size: 336, 465
+  orig: 336, 465
+  offset: 0, 0
+  index: -1
+egg
+  rotate: false
+  xy: 699, 833
+  size: 385, 403
+  orig: 385, 403
+  offset: 0, 0
+  index: -1
+emma
+  rotate: true
+  xy: 1565, 109
+  size: 265, 415
+  orig: 265, 415
+  offset: 0, 0
+  index: -1
+fiete
+  rotate: false
+  xy: 369, 72
+  size: 343, 476
+  orig: 343, 476
+  offset: 0, 0
+  index: -1
+fireworker
+  rotate: false
+  xy: 2, 495
+  size: 353, 517
+  orig: 353, 517
+  offset: 0, 0
+  index: -1
+gardener
+  rotate: false
+  xy: 1055, 1278
+  size: 347, 428
+  orig: 347, 428
+  offset: 0, 0
+  index: -1
+grandmother
+  rotate: false
+  xy: 1159, 431
+  size: 256, 444
+  orig: 256, 444
+  offset: 0, 0
+  index: -1
+hinnerk
+  rotate: true
+  xy: 412, 1695
+  size: 349, 502
+  orig: 349, 502
+  offset: 0, 0
+  index: -1
+icecream
+  rotate: true
+  xy: 714, 227
+  size: 334, 373
+  orig: 334, 373
+  offset: 0, 0
+  index: -1
+kid
+  rotate: false
+  xy: 1674, 860
+  size: 312, 381
+  orig: 312, 381
+  offset: 0, 0
+  index: -1
+knight
+  rotate: false
+  xy: 2, 1014
+  size: 346, 544
+  orig: 346, 544
+  offset: 0, 0
+  index: -1
+monster
+  rotate: false
+  xy: 1086, 877
+  size: 350, 399
+  orig: 350, 399
+  offset: 0, 0
+  index: -1
+mummy
+  rotate: true
+  xy: 1093, 5
+  size: 238, 470
+  orig: 238, 470
+  offset: 0, 0
+  index: -1
+nurse
+  rotate: false
+  xy: 1742, 1243
+  size: 285, 453
+  orig: 285, 453
+  offset: 0, 0
+  index: -1
+penguin
+  rotate: true
+  xy: 1089, 245
+  size: 184, 296
+  orig: 184, 296
+  offset: 0, 0
+  index: -1
+pilot
+  rotate: false
+  xy: 357, 550
+  size: 340, 492
+  orig: 340, 492
+  offset: 0, 0
+  index: -1
+pirate_soeren
+  rotate: false
+  xy: 2, 1560
+  size: 408, 484
+  orig: 408, 484
+  offset: 0, 0
+  index: -1
+rabbit
+  rotate: false
+  xy: 1839, 1698
+  size: 193, 346
+  orig: 193, 346
+  offset: 0, 0
+  index: -1
+robot
+  rotate: false
+  xy: 1700, 431
+  size: 250, 427
+  orig: 250, 427
+  offset: 0, 0
+  index: -1
+schatten
+  rotate: false
+  xy: 412, 1662
+  size: 180, 31
+  orig: 180, 31
+  offset: 0, 0
+  index: -1
+scientist
+  rotate: false
+  xy: 1438, 801
+  size: 234, 521
+  orig: 234, 521
+  offset: 0, 0
+  index: -1
+shit
+  rotate: true
+  xy: 1383, 1734
+  size: 310, 454
+  orig: 310, 454
+  offset: 0, 0
+  index: -1
+vampire
+  rotate: false
+  xy: 1404, 1324
+  size: 336, 408
+  orig: 336, 408
+  offset: 0, 0
+  index: -1
+worker
+  rotate: false
+  xy: 350, 1044
+  size: 347, 514
+  orig: 347, 514
+  offset: 0, 0
+  index: -1
+yeti
+  rotate: false
+  xy: 2, 18
+  size: 365, 475
+  orig: 365, 475
+  offset: 0, 0
+  index: -1
+zombie
+  rotate: false
+  xy: 699, 1238
+  size: 354, 455
+  orig: 354, 455
+  offset: 0, 0
+  index: -1
+
+characters2.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+burger
+  rotate: false
+  xy: 259, 164
+  size: 278, 346
+  orig: 278, 346
+  offset: 0, 0
+  index: -1
+cat
+  rotate: true
+  xy: 831, 226
+  size: 284, 318
+  orig: 284, 318
+  offset: 0, 0
+  index: -1
+frog
+  rotate: false
+  xy: 1761, 292
+  size: 266, 218
+  orig: 266, 218
+  offset: 0, 0
+  index: -1
+furball
+  rotate: false
+  xy: 1479, 262
+  size: 280, 248
+  orig: 280, 248
+  offset: 0, 0
+  index: -1
+mouse
+  rotate: false
+  xy: 1479, 2
+  size: 260, 258
+  orig: 260, 258
+  offset: 0, 0
+  index: -1
+ninja
+  rotate: true
+  xy: 1151, 244
+  size: 266, 326
+  orig: 266, 326
+  offset: 0, 0
+  index: -1
+panda
+  rotate: false
+  xy: 539, 195
+  size: 290, 315
+  orig: 290, 315
+  offset: 0, 0
+  index: -1
+skeleton
+  rotate: false
+  xy: 2, 131
+  size: 255, 379
+  orig: 255, 379
+  offset: 0, 0
+  index: -1

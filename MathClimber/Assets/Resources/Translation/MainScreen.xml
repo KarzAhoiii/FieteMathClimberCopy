@@ -1,0 +1,247 @@
+<data>
+	<de>
+
+		<label id="title_LevelUp"> <![CDATA[Level erreicht]]> </label>
+		<label id="title_MakeHarder"> <![CDATA[Aufgaben ändern?]]> </label>
+		<label id="title_Confirm"> <![CDATA[Schwieriger]]> </label>
+		<label id="title_Reject"> <![CDATA[So lassen]]> </label>
+                <label id="title_Easier"> <![CDATA[Leichter]]> </label>
+		<label id="title_Daily"> <![CDATA[Willkommen zurück]]> </label>
+                <label id="PlayerHeadline"><![CDATA[SPIELERAUSWAHL]]> </label>
+                <label id="AddPlayer"><![CDATA[Spieler hinzufügen]]> </label>
+                <label id="Player"><![CDATA[Spielen]]> </label>
+                <label id="Placeholder"><![CDATA[Mein Name ...]]> </label>
+                <label id="AgeHeader"><![CDATA[Dein Alter]]> </label>
+                <label id="AgeButton"><![CDATA[Fertig]]> </label>
+                <label id="dataSecurity"> <![CDATA[Das wird nur auf deinem Gerät gespeichert.]]> </label>
+        
+	</de>
+	<en>
+                
+                <label id="title_LevelUp"> <![CDATA[Level reached]]> </label>
+                <label id="title_MakeHarder"> <![CDATA[Change tasks?]]> </label>
+                <label id="title_Confirm"> <![CDATA[Harder]]> </label>
+                <label id="title_Reject"> <![CDATA[Okay]]> </label>
+                <label id="title_Easier"> <![CDATA[Easier]]> </label>
+                <label id="title_Daily"> <![CDATA[Welcome back!]]> </label>
+                <label id="PlayerHeadline"><![CDATA[Select player]]> </label>
+                <label id="AddPlayer"><![CDATA[Add player]]> </label>
+                <label id="Player"><![CDATA[Play]]> </label>
+                <label id="Placeholder"><![CDATA[Your name]]> </label>
+                <label id="AgeHeader"><![CDATA[Your age]]> </label>
+                <label id="AgeButton"><![CDATA[Ready]]> </label>
+                <label id="dataSecurity"> <![CDATA[This is only stored on your device.]]> </label>
+        
+	</en>
+
+	<fr>
+                
+                <label id="title_LevelUp"> <![CDATA[Niveau atteint]]> </label>
+                <label id="title_MakeHarder"> <![CDATA[Changer les problèmes de calcul ?]]> </label>
+                <label id="title_Confirm"> <![CDATA[Difficile]]> </label>
+                <label id="title_Reject"> <![CDATA[Laisser comme tel]]> </label>
+                <label id="title_Easier"> <![CDATA[Plus facile]]> </label>
+                <label id="title_Daily"> <![CDATA[Bienvenue à nouveau !]]> </label>
+                <label id="PlayerHeadline"><![CDATA[Sélection des joueurs]]> </label>
+                <label id="AddPlayer"><![CDATA[Ajouter des joueurs]]> </label>
+                <label id="Player"><![CDATA[Jouer]]> </label>
+                <label id="Placeholder"><![CDATA[Ton nom]]> </label>
+                <label id="AgeHeader"><![CDATA[Ton âge]]> </label>
+                <label id="AgeButton"><![CDATA[Fini]]> </label>
+                <label id="dataSecurity"> <![CDATA[Ce n’est stocké que sur ton appareil.]]> </label>
+	</fr>
+
+        <nl>
+                <label id="title_LevelUp"> <![CDATA[Level bereikt]]> </label>
+                <label id="title_MakeHarder"> <![CDATA[Opgaven wijzigen?]]> </label>
+                <label id="title_Confirm"> <![CDATA[Moeilijker]]> </label>
+                <label id="title_Reject"> <![CDATA[Zo laten]]> </label>
+                <label id="title_Easier"> <![CDATA[Gemakkelijker]]> </label>
+                <label id="title_Daily"> <![CDATA[Welkom terug!]]> </label>
+                <label id="PlayerHeadline"><![CDATA[Spelerselectie]]> </label>
+                <label id="AddPlayer"><![CDATA[Speler toevoegen]]> </label>
+                <label id="Player"><![CDATA[Spelen]]> </label>
+                <label id="Placeholder"><![CDATA[Je naam]]> </label>
+                <label id="AgeHeader"><![CDATA[Je leeftijd]]> </label>
+                <label id="AgeButton"><![CDATA[Klaar]]> </label>
+                <label id="dataSecurity"> <![CDATA[Dat wordt alleen op je apparaat opgeslagen.]]> </label>
+        </nl>
+
+	<es>
+                <label id="title_LevelUp"> <![CDATA[Nivel alcanzado]]> </label>
+                <label id="title_MakeHarder"> <![CDATA[¿Cambiar de ejercicio?]]> </label>
+                <label id="title_Confirm"> <![CDATA[Más difícil]]> </label>
+                <label id="title_Reject"> <![CDATA[Dejarlo así]]> </label>
+                <label id="title_Easier"> <![CDATA[Más fácil]]> </label>
+                <label id="title_Daily"> <![CDATA[¡Bienvenido de nuevo!]]> </label>
+                <label id="PlayerHeadline"><![CDATA[Elegir jugador]]> </label>
+                <label id="AddPlayer"><![CDATA[Agregar jugador]]> </label>
+                <label id="Player"><![CDATA[Jugar]]> </label>
+                <label id="Placeholder"><![CDATA[Tu nombre]]> </label>
+                <label id="AgeHeader"><![CDATA[Tu edad]]> </label>
+                <label id="AgeButton"><![CDATA[Listo]]> </label>
+                <label id="dataSecurity"> <![CDATA[Se guardará solo en su dispositivo.]]> </label>
+	</es>
+    
+
+	<sv>
+                <label id="title_LevelUp"> <![CDATA[Du har klarat den här nivån]]> </label>
+                <label id="title_MakeHarder"> <![CDATA[Vill du testa en annan uppgift?]]> </label>
+                <label id="title_Confirm"> <![CDATA[Svårare]]> </label>
+                <label id="title_Reject"> <![CDATA[Bra så här]]> </label>
+                <label id="title_Easier"> <![CDATA[Lättare]]> </label>
+                <label id="title_Daily"> <![CDATA[Välkommen tillbaka!]]> </label>
+                <label id="PlayerHeadline"><![CDATA[Välj spelare]]> </label>
+                <label id="AddPlayer"><![CDATA[Lägg till spelare]]> </label>
+                <label id="Player"><![CDATA[Spela]]> </label>
+                <label id="Placeholder"><![CDATA[Ditt namn]]> </label>
+                <label id="AgeHeader"><![CDATA[Din ålder]]> </label>
+                <label id="AgeButton"><![CDATA[Klar]]> </label>
+                <label id="dataSecurity"> <![CDATA[Det sparas endast på din enhet.]]> </label>
+	</sv>
+
+        <ru>
+                <label id="title_LevelUp"> <![CDATA[Уровень достигнут]]> </label>
+                <label id="title_MakeHarder"> <![CDATA[Изменить задания?]]> </label>
+                <label id="title_Confirm"> <![CDATA[Усложнить]]> </label>
+                <label id="title_Reject"> <![CDATA[Без изменения]]> </label>
+                <label id="title_Easier"> <![CDATA[Упростить]]> </label>
+                <label id="title_Daily"> <![CDATA[С возвращением!]]> </label>
+                <label id="PlayerHeadline"><![CDATA[Выбор игроков]]> </label>
+                <label id="AddPlayer"><![CDATA[Добавить игроков]]> </label>
+                <label id="Player"><![CDATA[Играть]]> </label>
+                <label id="Placeholder"><![CDATA[Твое имя]]> </label>
+                <label id="AgeHeader"><![CDATA[Твой возраст]]> </label>
+                <label id="AgeButton"><![CDATA[Готово]]> </label>
+                <label id="dataSecurity"> <![CDATA[Это будет сохранено только на вашем устройстве.]]> </label>
+        </ru>
+    
+	<it>
+                <label id="title_LevelUp"> <![CDATA[Livello raggiunto]]> </label>
+                <label id="title_MakeHarder"> <![CDATA[Compiti modificati?]]> </label>
+                <label id="title_Confirm"> <![CDATA[Più difficile]]> </label>
+                <label id="title_Reject"> <![CDATA[Lasciare così]]> </label>
+                <label id="title_Easier"> <![CDATA[Più facile]]> </label>
+                <label id="title_Daily"> <![CDATA[Bentornato!]]> </label>
+                <label id="PlayerHeadline"><![CDATA[Selezione del giocatore]]> </label>
+                <label id="AddPlayer"><![CDATA[Aggiungi giocatore]]> </label>
+                <label id="Player"><![CDATA[Giocare]]> </label>
+                <label id="Placeholder"><![CDATA[Il tuo nome]]> </label>
+                <label id="AgeHeader"><![CDATA[La tua età]]> </label>
+                <label id="AgeButton"><![CDATA[Fatto]]> </label>
+                <label id="dataSecurity"> <![CDATA[Essa viene salvata sul tuo dispositivo.]]> </label>  
+	</it>
+
+	<da>
+                <label id="title_LevelUp"> <![CDATA[Level klaret]]> </label>
+                <label id="title_MakeHarder"> <![CDATA[Ændr opgaver?]]> </label>
+                <label id="title_Confirm"> <![CDATA[Sværere]]> </label>
+                <label id="title_Reject"> <![CDATA[Som nu]]> </label>
+                <label id="title_Easier"> <![CDATA[Lettere]]> </label>
+                <label id="title_Daily"> <![CDATA[Velkommen tilbage!]]> </label>
+                <label id="PlayerHeadline"><![CDATA[Vælg spiller]]> </label>
+                <label id="AddPlayer"><![CDATA[Tilføj spiller]]> </label>
+                <label id="Player"><![CDATA[Spil]]> </label>
+                <label id="Placeholder"><![CDATA[Dit navn]]> </label>
+                <label id="AgeHeader"><![CDATA[Din alder]]> </label>
+                <label id="AgeButton"><![CDATA[Færdig]]> </label>
+                <label id="dataSecurity"> <![CDATA[Det gemmes nu på din enhed.]]> </label>
+        </da>
+    
+	<pt>
+		<label id="title_LevelUp"> <![CDATA[Nível atingido]]> </label>
+                <label id="title_MakeHarder"> <![CDATA[Alterar exercícios?]]> </label>
+                <label id="title_Confirm"> <![CDATA[Mais difícil]]> </label>
+                <label id="title_Reject"> <![CDATA[Deixar assim]]> </label>
+                <label id="title_Easier"> <![CDATA[Mais fácil]]> </label>
+                <label id="title_Daily"> <![CDATA[Bem-vindo de volta!]]> </label>
+                <label id="PlayerHeadline"><![CDATA[Escolha do jogador]]> </label>
+                <label id="AddPlayer"><![CDATA[Acrescentar um jogador]]> </label>
+                <label id="Player"><![CDATA[Jogar]]> </label>
+                <label id="Placeholder"><![CDATA[O teu nome]]> </label>
+                <label id="AgeHeader"><![CDATA[A tua idade]]> </label>
+                <label id="AgeButton"><![CDATA[Pronto]]> </label>
+                <label id="dataSecurity"> <![CDATA[Isso só ficará gravado no teu aparelho.]]> </label>
+	</pt>
+
+        <jp>
+                <label id="title_LevelUp"> <![CDATA[レベル達成]]> </label>
+                <label id="title_MakeHarder"> <![CDATA[難易度を変更する？]]> </label>
+                <label id="title_Confirm"> <![CDATA[難しくする]]> </label>
+                <label id="title_Reject"> <![CDATA[そのまま]]> </label>
+                <label id="title_Easier"> <![CDATA[簡単にする]]> </label>
+                <label id="title_Daily"> <![CDATA[おかえりなさい！]]> </label>
+                <label id="PlayerHeadline"><![CDATA[プレイヤー選択]]> </label>
+                <label id="AddPlayer"><![CDATA[プレイヤーを追加する]]> </label>
+                <label id="Player"><![CDATA[プレイ]]> </label>
+                <label id="Placeholder"><![CDATA[きみの名前]]> </label>
+                <label id="AgeHeader"><![CDATA[きみの年齢]]> </label>
+                <label id="AgeButton"><![CDATA[完了]]> </label>
+                <label id="dataSecurity"> <![CDATA[これはきみの端末に保存されます。]]> </label>
+        </jp>
+
+        <cn>
+                <label id="title_LevelUp"> <![CDATA[达到等级]]> </label>
+                <label id="title_MakeHarder"> <![CDATA[更改任务？]]> </label>
+                <label id="title_Confirm"> <![CDATA[更难]]> </label>
+                <label id="title_Reject"> <![CDATA[就这样]]> </label>
+                <label id="title_Easier"> <![CDATA[更简单]]> </label>
+                <label id="title_Daily"> <![CDATA[欢迎回来！]]> </label>
+                <label id="PlayerHeadline"><![CDATA[玩家选择]]> </label>
+                <label id="AddPlayer"><![CDATA[添加玩家]]> </label>
+                <label id="Player"><![CDATA[开始游戏]]> </label>
+                <label id="Placeholder"><![CDATA[你的名字]]> </label>
+                <label id="AgeHeader"><![CDATA[你的年龄]]> </label>
+                <label id="AgeButton"><![CDATA[完成]]> </label>
+                <label id="dataSecurity"> <![CDATA[这只会被保存到您的设备上。]]> </label>
+        </cn>
+
+        <th>
+                <label id="title_LevelUp"> <![CDATA[ถึงระดับแล้ว]]> </label>
+                <label id="title_MakeHarder"> <![CDATA[เปลี่ยนโจทย์หรือไม่?]]> </label>
+                <label id="title_Confirm"> <![CDATA[ยาก]]> </label>
+                <label id="title_Reject"> <![CDATA[คงไว้แบบนี้]]> </label>
+                <label id="title_Easier"> <![CDATA[ง่าย]]> </label>
+                <label id="title_Daily"> <![CDATA[ยินดีต้อนรับอีกครั้ง!]]> </label>
+                <label id="PlayerHeadline"><![CDATA[เลือกผู้เล่น]]> </label>
+                <label id="AddPlayer"><![CDATA[เพิ่มผู้เล่น]]> </label>
+                <label id="Player"><![CDATA[เล่น]]> </label>
+                <label id="Placeholder"><![CDATA[ชื่อ]]> </label>
+                <label id="AgeHeader"><![CDATA[อายุ]]> </label>
+                <label id="AgeButton"><![CDATA[พร้อมแล้ว]]> </label>
+                <label id="dataSecurity"> <![CDATA[การตั้งค่านี้จะถูกบันทึกลงในอุปกรณ์เท่านั้น]]> </label>
+        </th>
+
+	<tr>
+		<label id="title_LevelUp"> <![CDATA[Seviyeye ulaşıldı]]> </label>
+                <label id="title_MakeHarder"> <![CDATA[Problem değiştirilsin mi?]]> </label>
+                <label id="title_Confirm"> <![CDATA[Daha zor]]> </label>
+                <label id="title_Reject"> <![CDATA[Böyle kalsın]]> </label>
+                <label id="title_Easier"> <![CDATA[Daha kolay]]> </label>
+                <label id="title_Daily"> <![CDATA[Tekrar hoşgeldin!]]> </label>
+                <label id="PlayerHeadline"><![CDATA[Oyucu seç]]> </label>
+                <label id="AddPlayer"><![CDATA[Oyuncu ekle]]> </label>
+                <label id="Player"><![CDATA[Oyna]]> </label>
+                <label id="Placeholder"><![CDATA[Adın]]> </label>
+                <label id="AgeHeader"><![CDATA[Yaşın]]> </label>
+                <label id="AgeButton"><![CDATA[Bitti]]> </label>
+                <label id="dataSecurity"> <![CDATA[Bu sadece cihazına kaydedilecektir.]]> </label>
+	</tr>
+
+
+	<kr>
+                <label id="title_LevelUp"> <![CDATA[레벨 도달]]> </label>
+                <label id="title_MakeHarder"> <![CDATA[문제를 바꿀까요?]]> </label>
+                <label id="title_Confirm"> <![CDATA[더 어렵게]]> </label>
+                <label id="title_Reject"> <![CDATA[실행]]> </label>
+                <label id="title_Easier"> <![CDATA[더 쉽게]]> </label>
+                <label id="title_Daily"> <![CDATA[다시 환영합니다!]]> </label>
+                <label id="PlayerHeadline"><![CDATA[게임 선택]]> </label>
+                <label id="AddPlayer"><![CDATA[플레이어 추가]]> </label>
+                <label id="Player"><![CDATA[게임]]> </label>
+                <label id="Placeholder"><![CDATA[이름]]> </label>
+                <label id="AgeHeader"><![CDATA[나이]]> </label>
+                <label id="AgeButton"><![CDATA[준비]]> </label>
+                <label id="dataSecurity"> <![CDATA[이 게임은 기기에 저장됩니다.]]> </label>
+	</kr>
+</data>

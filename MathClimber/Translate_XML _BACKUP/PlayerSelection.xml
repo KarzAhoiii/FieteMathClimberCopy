@@ -1,0 +1,301 @@
+<data>
+	<item language="de">
+		<Headline>SPIELERAUSWAHL</Headline>
+		<Button01>Spieler hinzufügen</Button01>
+		<Button02>Spielen</Button02>
+        <Placeholder>Mein Name ...</Placeholder>
+        <ageHeader>Dein Alter</ageHeader>
+	</item>
+	
+	<item language="en">
+		<Headline>CHOOSE PLAYER</Headline>
+		<Button01>Add Player</Button01>
+		<Button02>Play</Button02>
+        <Placeholder>My Name ...</Placeholder>
+        <ageHeader>Your age</ageHeader>
+	</item>
+
+	<item language="af">
+		<Headline>KIES SPELER</Headline>
+		<Button01>Voeg speler by</Button01>
+		<Button02>speel</Button02>
+        <Placeholder>My Name ...</Placeholder>
+        <ageHeader>Your age</ageHeader>
+	</item>
+
+	<item language="ar">
+		<Headline>اختيار لاعب</Headline>
+		<Button01>إضافة لاعب</Button01>
+		<Button02>لعب</Button02>
+        <Placeholder>My Name ...</Placeholder>
+        <ageHeader>Your age</ageHeader>
+	</item>
+
+	<item language="eu">
+		<Headline>JOLASAK aukeratzeko</Headline>
+		<Button01>Gehitu erreproduzitzailea</Button01>
+		<Button02>Play</Button02>
+        <Placeholder>My Name ...</Placeholder>
+        <ageHeader>Your age</ageHeader>
+	</item>
+
+	<item language="by">
+		<Headline>ВЫБРАЦЬ PLAYER</Headline>
+		<Button01>дадаць гульца</Button01>
+		<Button02>гуляць</Button02>
+        <Placeholder>My Name ...</Placeholder>
+        <ageHeader>Your age</ageHeader>
+	</item>
+
+	<item language="bg">
+		<Headline>ИЗБЕРЕТЕ ИГРАЧ</Headline>
+		<Button01>Добавяне на плейър</Button01>
+		<Button02>играя</Button02>
+        <Placeholder>My Name ...</Placeholder>
+        <ageHeader>Your age</ageHeader>
+	</item>
+
+	<item language="ca">
+		<Headline>Tria el jugador</Headline>
+		<Button01>Afegeix un reproductor</Button01>
+		<Button02>Jugar</Button02>
+        <Placeholder>My Name ...</Placeholder>
+        <ageHeader>Your age</ageHeader>
+	</item>
+
+	<item language="zh">
+		<Headline>选择播放器</Headline>
+		<Button01>添加播放器</Button01>
+		<Button02>玩</Button02>
+        <Placeholder>My Name ...</Placeholder>
+        <ageHeader>Your age</ageHeader>
+	</item>
+
+	<item language="cs">
+		<Headline>Zvolte přehrávač</Headline>
+		<Button01>Přidat přehrávač</Button01>
+		<Button02>Hrát si</Button02>
+        <Placeholder>My Name ...</Placeholder>
+        <ageHeader>Your age</ageHeader>
+	</item>
+
+	<item language="da">
+		<Headline>VÆLG SPILLER</Headline>
+		<Button01>Tilføj afspiller</Button01>
+		<Button02>Spille</Button02>
+        <Placeholder>My Name ...</Placeholder>
+        <ageHeader>Your age</ageHeader>
+	</item>
+
+	<item language="nl">
+		<Headline>KIES SPELER</Headline>
+		<Button01>Voeg speler toe</Button01>
+		<Button02>Spelen</Button02>
+        <Placeholder>My Name ...</Placeholder>
+        <ageHeader>Your age</ageHeader>
+	</item>
+
+	<item language="et">
+		<Headline>VALI PLAYER</Headline>
+		<Button01>Lisa mängija</Button01>
+		<Button02>Mängi</Button02>
+        <Placeholder>My Name ...</Placeholder>
+        <ageHeader>Your age</ageHeader>
+	</item>
+
+	<item language="fi">
+		<Headline>Valitse toistin</Headline>
+		<Button01>Lisää soitin</Button01>
+		<Button02>pelata</Button02>
+        <Placeholder>My Name ...</Placeholder>
+        <ageHeader>Your age</ageHeader>
+	</item>
+
+	<item language="fr">
+		<Headline>CHOISIR LE JOUEUR</Headline>
+		<Button01>Ajouter un joueur</Button01>
+		<Button02>Jouer</Button02>
+        <Placeholder>My Name ...</Placeholder>
+        <ageHeader>Your age</ageHeader>
+	</item>
+
+	<item language="el">
+		<Headline>ΕΠΙΛΕΞΤΕ ΤΟΝ ΠΑΙΧΝΙΔΙ</Headline>
+		<Button01>Προσθήκη προγράμματος αναπαραγωγής</Button01>
+		<Button02>Παίζω</Button02>
+        <Placeholder>My Name ...</Placeholder>
+        <ageHeader>Your age</ageHeader>
+	</item>
+
+	<item language="iw">
+		<Headline>לבחור את השחקן</Headline>
+		<Button01>הוסף נגן</Button01>
+		<Button02>לְשַׂחֵק</Button02>
+        <Placeholder>My Name ...</Placeholder>
+        <ageHeader>Your age</ageHeader>
+	</item>
+
+	<item language="hu">
+		<Headline>VÁLASSZON LEJÁTSZÓ</Headline>
+		<Button01>Add Játékos</Button01>
+		<Button02>Játék</Button02>
+        <ageHeader>Your age</ageHeader>
+	</item>
+
+	<item language="is">
+		<Headline>VELJA PLAYER</Headline>
+		<Button01>Bæta við spilara</Button01>
+		<Button02>Leika</Button02>
+        <Placeholder>My Name ...</Placeholder>
+        <ageHeader>Your age</ageHeader>
+	</item>
+
+	<item language="in">
+		<Headline>MEMILIH PLAYER</Headline>
+		<Button01>Tambahkan Player</Button01>
+		<Button02>Bermain</Button02>
+        <Placeholder>My Name ...</Placeholder>
+        <ageHeader>Your age</ageHeader>
+	</item>
+
+	<item language="it">
+		<Headline>SCEGLI IL GIOCATORE</Headline>
+		<Button01>Aggiungi giocatore</Button01>
+		<Button02>Gioccare</Button02>
+        <ageHeader>Your age</ageHeader>
+	</item>
+
+	<item language="ja">
+		<Headline>選手を選ぶ</Headline>
+		<Button01>プレーヤーを追加する</Button01>
+		<Button02>遊びます</Button02>
+        <Placeholder>My Name ...</Placeholder>
+        <ageHeader>Your age</ageHeader>
+	</item>
+
+	<item language="ko">
+		<Headline>플레이어 선택</Headline>
+		<Button01>플레이어 추가</Button01>
+		<Button02>놀이</Button02>
+        <Placeholder>My Name ...</Placeholder>
+        <ageHeader>Your age</ageHeader>
+	</item>
+
+	<item language="lv">
+		<Headline>IZVĒLIETIES PLAYER</Headline>
+		<Button01>Pievienot atskaņotāju</Button01>
+		<Button02>Spēlēt</Button02>
+        <Placeholder>My Name ...</Placeholder>
+        <ageHeader>Your age</ageHeader>
+	</item>
+
+	<item language="lt">
+		<Headline>PASIRINKITE PLAYER</Headline>
+		<Button01>Pridėti grotuvą</Button01>
+		<Button02>Groti</Button02>
+        <ageHeader>Your age</ageHeader>
+	</item>
+
+	<item language="no">
+		<Headline>VELG SPILLER</Headline>
+		<Button01>Legg til spiller</Button01>
+		<Button02>Spille</Button02>
+        <Placeholder>My Name ...</Placeholder>
+        <ageHeader>Your age</ageHeader>
+	</item>
+
+	<item language="pl">
+		<Headline>WYBIERZ GRACZA</Headline>
+		<Button01>Dodaj odtwarzacza</Button01>
+		<Button02>Grać</Button02>
+        <Placeholder>My Name ...</Placeholder>
+        <ageHeader>Your age</ageHeader>
+	</item>
+
+	<item language="pt">
+		<Headline>ESCOLHA O JOGADOR</Headline>
+		<Button01>Adicionar jogador</Button01>
+		<Button02>Toque</Button02>
+        <Placeholder>My Name ...</Placeholder>
+        <ageHeader>Your age</ageHeader>
+	</item>
+
+	<item language="ro">
+		<Headline>ALEGE PLAYER</Headline>
+		<Button01>Adaugă Player</Button01>
+		<Button02>a juca</Button02>
+        <Placeholder>My Name ...</Placeholder>
+        <ageHeader>Your age</ageHeader>
+	</item>
+
+	<item language="ru">
+		<Headline>ВЫБЕРИТЕ ПРОФИЛЬ</Headline>
+		<Button01>Добавить Профиль</Button01>
+		<Button02>Играть</Button02>
+        <Placeholder>My Name ...</Placeholder>
+	</item>
+
+	<item language="sk">
+		<Headline>Vybrať prehrávač</Headline>
+		<Button01>Pridať prehrávač</Button01>
+		<Button02>hrať</Button02>
+        <Placeholder>My Name ...</Placeholder>
+        <ageHeader>Your age</ageHeader>
+	</item>
+
+	<item language="sl">
+		<Headline>IZBERITE IGRAČE</Headline>
+		<Button01>Dodaj igralca</Button01>
+		<Button02>Igraj</Button02>
+        <Placeholder>My Name ...</Placeholder>
+        <ageHeader>Your age</ageHeader>
+	</item>
+
+	<item language="es">
+		<Headline>ELEGIR JUGADOR</Headline>
+		<Button01>Añadir jugador</Button01>
+		<Button02>Jugar</Button02>
+        <Placeholder>My Name ...</Placeholder>
+        <ageHeader>Your age</ageHeader>
+	</item>
+
+	<item language="sv">
+		<Headline>VÄLJ SPELARE</Headline>
+		<Button01>Lägg till spelare</Button01>
+		<Button02>Spela</Button02>
+        <Placeholder>My Name ...</Placeholder>
+        <ageHeader>Your age</ageHeader>
+	</item>
+
+	<item language="th">
+		<Headline>เลือกผู้เล่น</Headline>
+		<Button01>เพิ่มผู้เล่น</Button01>
+		<Button02>เล่น</Button02>
+        <Placeholder>My Name ...</Placeholder>
+        <ageHeader>Your age</ageHeader>
+	</item>
+
+	<item language="tr">
+		<Headline>OYUNCU SEÇ</Headline>
+		<Button01>Oyuncu ekle</Button01>
+		<Button02>Başlat</Button02>
+        <Placeholder>My Name ...</Placeholder>
+        <ageHeader>Your age</ageHeader>
+	</item>
+
+	<item language="uk">
+		<Headline>ВИБЕРІТЬ ГРАВЦЯ</Headline>
+		<Button01>Додати програвача</Button01>
+		<Button02>Грати</Button02>
+        <Placeholder>My Name ...</Placeholder>
+        <ageHeader>Your age</ageHeader>
+	</item>
+
+	<item language="vi">
+		<Headline>CHỌN NGƯỜI PLAYER</Headline>
+		<Button01>Thêm Người chơi</Button01>
+		<Button02>Chơi</Button02>
+        <Placeholder>My Name ...</Placeholder>
+        <ageHeader>Your age</ageHeader>
+	</item>
+</data>

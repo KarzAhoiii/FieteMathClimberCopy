@@ -1,0 +1,48 @@
+
+alien.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm
+  rotate: false
+  xy: 2, 2
+  size: 47, 225
+  orig: 47, 225
+  offset: 0, 0
+  index: -1
+eyes_closed
+  rotate: false
+  xy: 272, 316
+  size: 103, 112
+  orig: 103, 112
+  offset: 0, 0
+  index: -1
+eyes_open
+  rotate: false
+  xy: 51, 193
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 411, 455
+  size: 46, 89
+  orig: 46, 89
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 229
+  size: 268, 199
+  orig: 268, 199
+  offset: 0, 0
+  index: -1
+schatten
+  rotate: false
+  xy: 2, 430
+  size: 407, 71
+  orig: 407, 71
+  offset: 0, 0
+  index: -1

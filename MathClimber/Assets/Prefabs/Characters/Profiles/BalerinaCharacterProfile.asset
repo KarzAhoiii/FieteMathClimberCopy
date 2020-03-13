@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62c56c0130ba1483d97d3bfe67d4dfbe, type: 3}
+  m_Name: BalerinaCharacterProfile
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1629087059176354, guid: 0b00c03f1c0c44fddb0863105f6be893, type: 2}
+  portrait: {fileID: 1940823341432110, guid: f34fc96099a434f1981ba88be9443f1e, type: 2}
+  particle: {fileID: 0}
+  primary: {r: 0.07450981, g: 0.13725491, b: 0.3921569, a: 1}
+  secondary: {r: 0.121568635, g: 0.20784315, b: 0.5686275, a: 1}
+  buttonColor: {r: 0.1882353, g: 0.2784314, b: 0.67058825, a: 1}
+  textcol: {r: 1, g: 1, b: 1, a: 1}
+  priceOverride: 4800
+  isPurchased: 1
+  isLocked: 0
+  id: 10
+  rewardBonus: 2
+  jumpSound: {fileID: 8300000, guid: c6e8b11ee8d1a4aafb0b8cb5c3c2f6e1, type: 3}
+  jumpVoice: {fileID: 8300000, guid: 439bf74dec2354f6987e8eaa4b5c6cca, type: 3}
+  fallVoice: {fileID: 8300000, guid: c41501fc97e474399abd289697f562a8, type: 3}
+  landSound: {fileID: 8300000, guid: 58e55e64878194b6b8b447dce1064066, type: 3}
+  specialVoice: {fileID: 8300000, guid: 66cc98ac1576343adae3e24c2c0aa0e4, type: 3}
+  tapVoice: {fileID: 8300000, guid: 567649ef8a2e2486c86b59821e546357, type: 3}

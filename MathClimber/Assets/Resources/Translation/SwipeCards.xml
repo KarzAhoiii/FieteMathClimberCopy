@@ -1,0 +1,514 @@
+<data>
+
+	 <item language="de">
+
+	    <EffizientHeader>Effizient</EffizientHeader>
+	    <ProblemeHeader>Probleme entdecken</ProblemeHeader>
+	    <MotivationHeader>Langzeitmotivation</MotivationHeader>
+	    <FortschrittHeader>Fortschritte sehen</FortschrittHeader>
+	    <SicherHeader>Sicher</SicherHeader>
+	    <KlarheitHeader>Klarheit</KlarheitHeader>
+	    <AufgabentypHeader>Aufgabentyp wählen</AufgabentypHeader>
+	    <ZahlentypHeader>Zahlentyp wählen</ZahlentypHeader>
+	    <ReihenHeader>Reihen wählen</ReihenHeader>
+	    <EffizientText>1000 Aufgaben in einer Stunde? Auf Papier nicht möglich!
+	Du wirst dich wundern, wie viele Aufgaben dein Kind freiwillig rechnen wird.</EffizientText>
+	    <ProblemeText>Der Analysealgorithmuss erkennt sofort, wo Probleme liegen und erstellt gezielte Übungspakete.</ProblemeText>
+	    <MotivationText>Das erprobte Belohnsystem hält die Motivation dauerhaft hoch. So wird Üben zu Spielen und es macht dauerhaft Spaß.</MotivationText>
+	    <FortschrittText>Die Statistiken und Auswertungen von MathClimber geben eine gute Übersicht über den Fortschitt des Kindes.</FortschrittText>
+	    <SicherText>Alle Daten gehören dir und bleiben auf deinem Gerät.</SicherText>
+	    <KlarheitText>Durchdachtes Design unterstützt beim Rechnen ohne unnötig abzulenken.</KlarheitText>
+	    <AufgabentypText>1 Zahlenraum festlegen
+	2 Grundrechenarten festlegen
+	3 Zeit pro Aufgabe
+	4 Aufgabntyp</AufgabentypText>
+	    <ZahlentypText>Durch mehrfaches Tappen kann der Zahlentyp bestimmt werden.
+	- Kernzahlen: 5, 10...
+	- Nachbarzahlen: 4, 6, 9...
+	- Zwischenzahlen: 3, 7, 8...</ZahlentypText>
+	    <ReihenText>Wählen Sie gezielt die Reihen des 1x1 aus, die Sie trainieren möchten.</ReihenText>
+	    <ageSelection>Das wird nur auf deinem Gerät gespeichert.</ageSelection>
+	    <HowItWorks>Erklärung</HowItWorks>
+
+	 </item>
+
+	<item language="en">
+
+		<EffizientHeader>Extremely effective</EffizientHeader>
+	    <ProblemeHeader>Targeted practice</ProblemeHeader>
+	    <MotivationHeader>High levels of long-term motivation</MotivationHeader>
+	    <FortschrittHeader>Visible progress</FortschrittHeader>
+	    <SicherHeader>Absolutely secure</SicherHeader>
+	    <KlarheitHeader>Clear design</KlarheitHeader>
+	    <AufgabentypHeader>Select task type</AufgabentypHeader>
+	    <ZahlentypHeader>Select number type</ZahlentypHeader>
+	    <ReihenHeader>Select series</ReihenHeader>
+	    <EffizientText>"Solve 1,000 tasks in one hour? Not possible on paper!
+You'll be surprised how many your child will volunteer to solve!"</EffizientText>
+	    <ProblemeText>The analytics algorithm immediately identifies issues and creates targeted sets of tasks.</ProblemeText>
+	    <MotivationText>The tried-and-test reward system keeps motivation up. This turns practice into a fun game.</MotivationText>
+	    <FortschrittText>The statistics and evaluations offered by MathClimber give a good overview of the child's progress.</FortschrittText>
+	    <SicherText>All data belongs to you and remains on your device.</SicherText>
+	    <KlarheitText>Sophisticated design supports arithmetic practice without unnecessary distractions.</KlarheitText>
+	    <AufgabentypText>1. Set number range 
+2. Define basic arithmetic operations
+3. Time per task
+4. Task type</AufgabentypText>
+	    <ZahlentypText>Tap several times 
+to set the number type. 
+- Core numbers: 1, 5, 10...
+- Neighboring numbers: 4, 6, 9....
+- Intermediate numbers: 3, 7, 8...</ZahlentypText>
+	    <ReihenText>Select the
+multiplication tables you want to practice.</ReihenText>
+	    <ageSelection>This is only stored on your device.</ageSelection>
+	    <HowItWorks>Explanation</HowItWorks>
+
+	</item>
+
+
+	<item language="zh">
+
+		<EffizientHeader>效率极高</EffizientHeader>
+	    <ProblemeHeader>有针对性地练习</ProblemeHeader>
+	    <MotivationHeader>长期保持较高的积极性</MotivationHeader>
+	    <FortschrittHeader>进步明显</FortschrittHeader>
+	    <SicherHeader>绝对安全</SicherHeader>
+	    <KlarheitHeader>设计清晰</KlarheitHeader>
+	    <AufgabentypHeader>选择任务类型</AufgabentypHeader>
+	    <ZahlentypHeader>选择数字类型</ZahlentypHeader>
+	    <ReihenHeader>选择列</ReihenHeader>
+	    <EffizientText>一小时内完成 1000 项任务？在纸上不可能完成！
+您孩子自愿计算的任务量一定会让你感到惊讶！</EffizientText>
+	    <ProblemeText>分析算法能够立即发现问题所在并制定有针对性的练习题集。</ProblemeText>
+	    <MotivationText>经过验证的奖励制度能够长期保持积极性。这样即可让练习变成游戏，并从中获得长期乐趣。</MotivationText>
+	    <FortschrittText>MathClimber 的统计和分析数据能够给出一份孩子的进步概况。</FortschrittText>
+	    <SicherText>所有数据都属于您个人并保留在您的设备上。</SicherText>
+	    <KlarheitText>精致的设计令孩子在计算时聚精会神。</KlarheitText>
+	    <AufgabentypText>1.确定数字区间 
+2.确定基本运算法
+3.每项任务的时间
+4.任务类型</AufgabentypText>
+	    <ZahlentypText>通过反复摸索即可 
+确定数字类型。
+- 核心数：5、10...
+- 相邻数：4、6、9....
+- 中间数：3、7、8...</ZahlentypText>
+	    <ReihenText>请有针对性地选择
+您想要练习的 1x1 列。</ReihenText>
+	    <ageSelection>这只会被保存到您的设备上。</ageSelection>
+	    <HowItWorks>声明</HowItWorks>
+
+	</item>
+
+
+	<item language="da">
+
+		<EffizientHeader>Ekstremt effektiv</EffizientHeader>
+	    <ProblemeHeader>Målrettet øvelse</ProblemeHeader>
+	    <MotivationHeader>Høj og vedvarende motivation</MotivationHeader>
+	    <FortschrittHeader>Synlige fremskridt</FortschrittHeader>
+	    <SicherHeader>Absolut sikker</SicherHeader>
+	    <KlarheitHeader>Klart design</KlarheitHeader>
+	    <AufgabentypHeader>Vælg opgavetype</AufgabentypHeader>
+	    <ZahlentypHeader>Vælg taltype</ZahlentypHeader>
+	    <ReihenHeader>Vælg tabel</ReihenHeader>
+	    <EffizientText>1000 opgaver på en time? Ikke muligt på papir!
+Du vil blive overrasket over, hvor mange opgaver dit barn regner frivilligt.</EffizientText>
+	    <ProblemeText>Analysealgoritmen opdager straks, hvor der er problemer, og opretter målrettede opgavepakker.</ProblemeText>
+	    <MotivationText>Det gennemtestede belønningssystem holder motivationen oppe i lang tid. Sådan bliver træningen til en leg og en fornøjelse i lang tid.</MotivationText>
+	    <FortschrittText>Statistikkerne og analyserne fra MathClimber giver en god oversigt over barnets fremskridt.</FortschrittText>
+	    <SicherText>Alle data tilhører dig og forbliver på din enhed.</SicherText>
+	    <KlarheitText>Det gennemtænkte design hjælper med at regne uden at distrahere.</KlarheitText>
+	    <AufgabentypText>1. Bestem anvendte tal 
+2. Bestem grundregnearter
+3. Tid pr. opgave
+4. Opgavetype</AufgabentypText>
+	    <ZahlentypText>Ved at trykke flere gange 
+kan taltypen bestemmes. 
+- kernetal: 5, 10...
+- nabotal: 4, 6, 9....
+- mellemtal: 3, 7, 8...</ZahlentypText>
+	    <ReihenText>Vælg nu de tabeller i den
+lille tabel, som du gerne vil øve.</ReihenText>
+	    <ageSelection>Det gemmes nu på din enhed.</ageSelection>
+	    <HowItWorks>Forklaring</HowItWorks>
+
+	</item>
+
+	<item language="nl">
+
+		<EffizientHeader>Extreem efficiënt</EffizientHeader>
+	    <ProblemeHeader>Gericht oefenen</ProblemeHeader>
+	    <MotivationHeader>Hoge langdurige motivatie</MotivationHeader>
+	    <FortschrittHeader>Zichtbare progressie</FortschrittHeader>
+	    <SicherHeader>Absoluut veilig</SicherHeader>
+	    <KlarheitHeader>Duidelijk design</KlarheitHeader>
+	    <AufgabentypHeader>Opgavetype kiezen</AufgabentypHeader>
+	    <ZahlentypHeader>Cijfertype kiezen</ZahlentypHeader>
+	    <ReihenHeader>Rijen kiezen</ReihenHeader>
+	    <EffizientText>1000 opgaven in een uur? Op papier niet mogelijk!
+Je zal verbaasd zijn hoeveel opgaven je kind vrijwillig zal rekenen.</EffizientText>
+	    <ProblemeText>Het analyse-algoritme herkent onmiddellijk waar er problemen zijn en stelt gerichte oefenpakketten samen.</ProblemeText>
+	    <MotivationText>Het geteste beloningssysteem houdt de motivatie permanent hoog. Zo wordt oefenen spelen en beleef je permanent plezier.</MotivationText>
+	    <FortschrittText>De statistieken en beoordelingen van MathClimber geven een goed overzicht van de progressie van het kind.</FortschrittText>
+	    <SicherText>Alle gegevens zijn van jou en blijven op je apparaat.</SicherText>
+	    <KlarheitText>Doordacht design ondersteunt tijdens het rekenen zonder onnodig af te leiden.</KlarheitText>
+	    <AufgabentypText>1. Cijfers bepalen 
+2. Basisrekensoorten bepalen
+3. Tijd per opgave
+4. Opgavetype</AufgabentypText>
+	    <ZahlentypText>Door meerdere keren te tikken kan 
+het cijfertype worden bepaald. 
+- Basiscijfers: 5, 10...
+- Aanliggende cijfers: 4, 6, 9....
+- Tussencijfers: 3, 7, 8...</ZahlentypText>
+	    <ReihenText>Kies gericht de rijen van
+1x1 uit, die u wilt trainen.</ReihenText>
+	    <ageSelection>Dat wordt alleen op je apparaat opgeslagen.</ageSelection>
+	    <HowItWorks>Verduidelijking</HowItWorks>
+
+	</item>
+
+	<item language="fr">
+
+		<EffizientHeader>Extrêmement efficace</EffizientHeader>
+	    <ProblemeHeader>S’exercer de façon ciblée</ProblemeHeader>
+	    <MotivationHeader>Motivation à long terme</MotivationHeader>
+	    <FortschrittHeader>Progrès visibles</FortschrittHeader>
+	    <SicherHeader>Absolument sûr</SicherHeader>
+	    <KlarheitHeader>Design clair</KlarheitHeader>
+	    <AufgabentypHeader>Sélectionner le type de problème</AufgabentypHeader>
+	    <ZahlentypHeader>Sélectionner le type de nombre</ZahlentypHeader>
+	    <ReihenHeader>Sélectionner les bandes</ReihenHeader>
+	    <EffizientText>Résoudre 1 000 problèmes de calcul en une heure ? Pas possible sur papier !
+Tu seras surpris du nombre de problèmes de calcul lesquels résoudra ton enfant volontairement.</EffizientText>
+	    <ProblemeText>L’algorithme d’analyse identifie immédiatement les faiblesses et crée des unités d’apprentissage ciblés.</ProblemeText>
+	    <MotivationText>Le système de récompense éprouvé maintient la motivation à un niveau élevé sur le long terme. Cela transforme la pratique en jeux et devient un plaisir permanent.</MotivationText>
+	    <FortschrittText>Les statistiques et évaluations du MathClimber donnent un bon aperçu des progrès de l’enfant.</FortschrittText>
+	    <SicherText>Toutes les données t’appartiennent et restent sur ton appareil.</SicherText>
+	    <KlarheitText>Une conception sophistiquée prend en charge le calcul sans distraire inutilement.</KlarheitText>
+	    <AufgabentypText>1. Définir l’espace numérique 
+2. Définir les opérations arithmétiques de base
+3. Temps par problème
+4. Type de problème</AufgabentypText>
+	    <ZahlentypText>En tapant plusieurs fois, tu peux 
+déterminer le type de nombre 
+- nombres de base 5, 10...
+- nombres voisins : 4, 6, 9...
+- nombres intermédiaires : 3, 7, 8...</ZahlentypText>
+	    <ReihenText>Sélectionne les bandes de la
+table de multiplication que tu veux travailler.</ReihenText>
+	    <ageSelection>Ce n’est stocké que sur ton appareil.</ageSelection>
+	    <HowItWorks>Explication</HowItWorks>
+
+	</item>
+
+	<item language="it">
+
+		<EffizientHeader>Estrema efficienza</EffizientHeader>
+	    <ProblemeHeader>Esercitare in modo mirato</ProblemeHeader>
+	    <MotivationHeader>Motivazione molto prolungata</MotivationHeader>
+	    <FortschrittHeader>Progressi evidenti</FortschrittHeader>
+	    <SicherHeader>Sicurezza assoluta</SicherHeader>
+	    <KlarheitHeader>Bel design</KlarheitHeader>
+	    <AufgabentypHeader>Selezionare il tipo di compito</AufgabentypHeader>
+	    <ZahlentypHeader>Selezionare il tipo di numero</ZahlentypHeader>
+	    <ReihenHeader>Selezionare la serie</ReihenHeader>
+	    <EffizientText>1000 compiti in un’ora? Impossibile sulla carta!
+Ti sorprenderai scoprendo quanti calcoli riesce a fare volontariamente il tuo bambino.</EffizientText>
+	    <ProblemeText>L’algoritmo di analisi riconosce subito i problemi e crea dei pacchetti di esercizi mirati.</ProblemeText>
+	    <MotivationText>Il sistema di ricompensa provato mantiene a l’elevata motivazione per molto tempo. In questo modo fare esercizi diventa un gioco molto divertente.</MotivationText>
+	    <FortschrittText>Le statistiche e le valutazioni di MathClimber forniscono una buona panoramica dei progressi del bambino.</FortschrittText>
+	    <SicherText>Tutti i dati ti appartengono e rimangono sul tuo dispositivo.</SicherText>
+	    <KlarheitText>Design ben concepito che aiuta in fase di calcolo senza distrarre.</KlarheitText>
+	    <AufgabentypText>1. Definire la serie di numeri 
+2. Definire i tipi di operazioni aritmetiche di base
+3. Tempo per compito
+4. Tipo di compito</AufgabentypText>
+	    <ZahlentypText>Cliccando più volte 
+è possibile stabilire il tipo di numeri. 
+- Numeri di base: 5, 10...
+- Numeri vicini: 4, 6, 9....
+- Numeri intermedi 3, 7, 8...</ZahlentypText>
+	    <ReihenText>Seleziona in modo mirato le serie del
+1x1, che desideri esercitare.</ReihenText>
+	    <ageSelection>Essa viene salvata sul tuo dispositivo.</ageSelection>
+	    <HowItWorks>Spiegazione</HowItWorks>
+
+	</item>
+
+	<item language="ja">
+
+		<EffizientHeader>極めて効果的</EffizientHeader>
+	    <ProblemeHeader>ぴったりな練習問題</ProblemeHeader>
+	    <MotivationHeader>高く、長期的なモチベーション</MotivationHeader>
+	    <FortschrittHeader>進歩が一目瞭然</FortschrittHeader>
+	    <SicherHeader>極めて安全</SicherHeader>
+	    <KlarheitHeader>分かりやすいデザイン</KlarheitHeader>
+	    <AufgabentypHeader>課題のタイプを選ぶ</AufgabentypHeader>
+	    <ZahlentypHeader>数字のタイプを選ぶ</ZahlentypHeader>
+	    <ReihenHeader>段を選ぶ</ReihenHeader>
+	    <EffizientText>1時間で1000問解けるかな？プリントでは無理です！
+あなたは、こどもが自ら進んで計算問題を解いていく姿に驚きを覚えるでしょう。</EffizientText>
+	    <ProblemeText>分析アルゴリズムは即座に苦手を見抜き、ぴったりの練習問題を作成します。</ProblemeText>
+	    <MotivationText>効果的なご褒美システムによってモチベーションが長期的に続きます。練習が遊びになり、楽しみが続きます。</MotivationText>
+	    <FortschrittText>計算クライマーの統計と有効活用によってこどもの進歩が一目瞭然です。</FortschrittText>
+	    <SicherText>全てのデータが端末の上に残ります。</SicherText>
+	    <KlarheitText>考え抜かれたデザインによって、集中して計算することができます。</KlarheitText>
+	    <AufgabentypText>1．数値を設定する 
+2.基本的な計算方法を決める
+3．問題ごとの時間
+4．課題のタイプを選ぶ</AufgabentypText>
+	    <ZahlentypText> 
+タップすることによって数字の種類を決めることができます。
+―5の倍数:5,10…
+―5の倍数の隣の数:4, 6, 9....
+―間の数:3, 7, 8...</ZahlentypText>
+	    <ReihenText>
+トレーニングしたい掛け算の段を選んでください。</ReihenText>
+	    <ageSelection>これは端末の上に保存されます。</ageSelection>
+	    <HowItWorks>説明</HowItWorks>
+
+	</item>
+
+	<item language="ko">
+
+		<EffizientHeader>최고로 효과적입니다</EffizientHeader>
+	    <ProblemeHeader>목표 연습하기</ProblemeHeader>
+	    <MotivationHeader>높은 장기동기부여</MotivationHeader>
+	    <FortschrittHeader>뚜렷한 향상</FortschrittHeader>
+	    <SicherHeader>절대적인 안전</SicherHeader>
+	    <KlarheitHeader>깔끔한 디자인</KlarheitHeader>
+	    <AufgabentypHeader>문제유형 고르기</AufgabentypHeader>
+	    <ZahlentypHeader>숫자유형 고르기</ZahlentypHeader>
+	    <ReihenHeader>순서 고르기</ReihenHeader>
+	    <EffizientText>1,000개의 과제를 한 시간 안에? 종이로는 불가능합니다!
+여러분의 자녀가 얼마나 많은 문제를 계산하는지 놀라실 것입니다.</EffizientText>
+	    <ProblemeText>분석 알고니즘은 어디서 문제가 있는지 바로 알려주고 목표로 하는 연습 패키지를 생성합니다.</ProblemeText>
+	    <MotivationText>검증된 보상시스템은 높은 동기부여를 오랫동안 지속시킵니다. 그래서 게임을 연습할 수 있고, 오랫동안 즐겁게 합니다.</MotivationText>
+	    <FortschrittText>MathClimber의 통계와 평가는 아이들이 얼마나 향상되었는지를 보여주는 좋은 목록자료입니다.</FortschrittText>
+	    <SicherText>모든 데이터가 여러분의 것이고 기기에 저장됩니다.</SicherText>
+	    <KlarheitText>정교한 디자인은 계산시 불필요한 것에 관심을 돌리는 것을 보호합니다.</KlarheitText>
+	    <AufgabentypText>1. 숫자 범위 결정 
+2. 기초산수연산 설정
+3. 문제당 소요시간
+4. 문제유형</AufgabentypText>
+	    <ZahlentypText>다양한 걸음방법으로 
+숫자 유형을 정할 수 있습니다. 
+주요숫자 5, 10...
+이웃숫자 4, 6, 9....
+중간숫자 3, 7, 8...</ZahlentypText>
+	    <ReihenText>연습하기 원하시는
+구구단을 선택하세요.</ReihenText>
+	    <ageSelection>이 게임은 기기에 저장됩니다.</ageSelection>
+	    <HowItWorks>설명</HowItWorks>
+
+	</item>
+
+	<item language="pt">
+
+		<EffizientHeader>Extremamente eficiente</EffizientHeader>
+	    <ProblemeHeader>Aprender de forma orientada</ProblemeHeader>
+	    <MotivationHeader>Alta motivação a longo prazo</MotivationHeader>
+	    <FortschrittHeader>Progressos visíveis</FortschrittHeader>
+	    <SicherHeader>Completamente seguro</SicherHeader>
+	    <KlarheitHeader>Design simples</KlarheitHeader>
+	    <AufgabentypHeader>Escolher o tipo de exercício</AufgabentypHeader>
+	    <ZahlentypHeader>Escolher o tipo de números</ZahlentypHeader>
+	    <ReihenHeader>Escolher as tabuadas</ReihenHeader>
+	    <EffizientText>"1000 exercícios numa hora? Não é possível em papel!
+Vais ficar admirado, com a quantidade de exercícios de cálculo que o teu filho vai fazer de livre vontade!"</EffizientText>
+	    <ProblemeText>O algoritmo de análise deteta imediatamente onde existem problemas e elabora pacotes de exercícios direcionados.</ProblemeText>
+	    <MotivationText>O sistema de recompensas comprovado mantém a motivação permanentemente alta. Dessa forma, o estudar torna-se uma brincadeira e é sempre divertido.</MotivationText>
+	    <FortschrittText>As estatísticas e avaliações do MathClimber dão uma visão geral referente ao progresso da criança.</FortschrittText>
+	    <SicherText>Todos os dados pertencem-te e ficam no teu aparelho.</SicherText>
+	    <KlarheitText>Um design pensado que ajuda nas contas sem distrações desnecessárias.</KlarheitText>
+	    <AufgabentypText>1. Definir a sequência numérica 
+2. Tipos de cálculo básicos
+3. Tempo por exercício
+4. Tipo de exercício</AufgabentypText>
+	    <ZahlentypText>Ao tocar várias vezes pode 
+definir o tipo de números. 
+- Números de base: 5, 10...
+- Números vizinhos: 4, 6, 9...
+- Números intermédios: 3, 7, 8...</ZahlentypText>
+	    <ReihenText>"Escolha de forma direcionada, as
+tabuadas, que quer treinar."</ReihenText>
+	    <ageSelection>Isso só ficará gravado no teu aparelho.</ageSelection>
+	    <HowItWorks>Explicação</HowItWorks>
+
+	</item>
+
+	<item language="ru">
+
+		<EffizientHeader>Высочайшая эффективность</EffizientHeader>
+	    <ProblemeHeader>Целенаправленное обучение</ProblemeHeader>
+	    <MotivationHeader>Высокая и продолжительная мотивация</MotivationHeader>
+	    <FortschrittHeader>Явный прогресс</FortschrittHeader>
+	    <SicherHeader>Абсолютная надежность</SicherHeader>
+	    <KlarheitHeader>Интуитивно понятная структура</KlarheitHeader>
+	    <AufgabentypHeader>Выбор типа задания</AufgabentypHeader>
+	    <ZahlentypHeader>Выбор типа чисел</ZahlentypHeader>
+	    <ReihenHeader>Выбор последовательности</ReihenHeader>
+	    <EffizientText>1000 заданий в течение часа? На бумаге это невозможно!
+Вы очень удивитесь, когда узнаете, сколько заданий ваш ребенок может сделать добровольно!</EffizientText>
+	    <ProblemeText>Интеллектуальный алгоритм анализа сразу определяет слабые места и в соответствии с этим составляет корректирующие пакеты упражнений.</ProblemeText>
+	    <MotivationText>Проверенная система вознаграждения обеспечивает длительную мотивацию. Обучение превращается в игру, от которой ребенок получает удовольствие.</MotivationText>
+	    <FortschrittText>Статистика и оценки MathClimber позволяют достаточно точно оценить успехи ребенка.</FortschrittText>
+	    <SicherText>Все данные хранятся на вашем устройстве и находятся в вашем распоряжении.</SicherText>
+	    <KlarheitText>Продуманная структура сводит к минимуму отвлекающие факторы</KlarheitText>
+	    <AufgabentypText>1. Определение числового диапазона 
+2. Определение основных арифметических действий
+3. Время на выполнение задания
+4. Тип задания</AufgabentypText>
+	    <ZahlentypText>Тип числе  
+ выбирается многократными нажатиями. 
+-  Опорные числа: 5, 10...
+-  Соседние числа: 4, 6, 9....
+-  Промежуточные числа: 3, 7, 8...</ZahlentypText>
+	    <ReihenText>Выберите последовательности 
+1x1, которые вы хотите тренировать.</ReihenText>
+	    <ageSelection>Это будет сохранено только на вашем устройстве.</ageSelection>
+	    <HowItWorks>Объяснение</HowItWorks>
+
+	</item>
+
+	<item language="es">
+
+		<EffizientHeader>Extremadamente eficiente</EffizientHeader>
+	    <ProblemeHeader>Práctica específica</ProblemeHeader>
+	    <MotivationHeader>Motivación alta a largo plazo</MotivationHeader>
+	    <FortschrittHeader>Avances visibles</FortschrittHeader>
+	    <SicherHeader>Absolutamente seguro</SicherHeader>
+	    <KlarheitHeader>Diseño claro</KlarheitHeader>
+	    <AufgabentypHeader>Elegir tipo de ejercicios</AufgabentypHeader>
+	    <ZahlentypHeader>Elegir tipo de números</ZahlentypHeader>
+	    <ReihenHeader>Elegir tablas de multiplicar</ReihenHeader>
+	    <EffizientText>¿1000 ejercicios en una hora? ¡En papel imposible!
+Te asombrarás al ver cuántos ejercicios calcula tu hijo voluntariamente.</EffizientText>
+	    <ProblemeText>El algoritmo de análisis reconoce en el momento dónde se encuentran los problemas y elabora paquetes de ejercicios específicos.</ProblemeText>
+	    <MotivationText>El sistema de recompensa probado mantiene la motivación a largo plazo. Así, la práctica se convertirá en un juego y será divertido durante mucho tiempo.</MotivationText>
+	    <FortschrittText>Las estadísticas y evaluaciones de MathClimber ofrecen una visión general del progreso del niño buena.</FortschrittText>
+	    <SicherText>Todos los datos te pertenecen y se quedarán en tu dispositivo.</SicherText>
+	    <KlarheitText>El diseño bien concebido ayuda a calcular sin distraer innecesariamente.</KlarheitText>
+	    <AufgabentypText>1. Determinar el rango de números 
+2. Determinar el tipo de operaciones básicas
+3. Tiempo por ejercicio
+4. Tipo de ejercicio</AufgabentypText>
+	    <ZahlentypText>Pulsando varias veces puedes 
+determinar el tipo de número. 
+- Números centrales 5, 10...
+- Números anteriores y posteriores 4, 6, 9....
+- Números intermedios 3, 7, 8...</ZahlentypText>
+	    <ReihenText>Elija específicamente la tabla de multiplicar
+que quiera practicar.</ReihenText>
+	    <ageSelection>Se guardará solo en su dispositivo.</ageSelection>
+	    <HowItWorks>Explicación</HowItWorks>
+
+	</item>
+
+	<item language="sv">
+
+		<EffizientHeader>Extremt effektivt</EffizientHeader>
+	    <ProblemeHeader>Öva målinriktat</ProblemeHeader>
+	    <MotivationHeader>Hög långvarig motivation</MotivationHeader>
+	    <FortschrittHeader>Synliga framsteg</FortschrittHeader>
+	    <SicherHeader>Absolut säker</SicherHeader>
+	    <KlarheitHeader>Tydlig design</KlarheitHeader>
+	    <AufgabentypHeader>Välj uppgiftstyp</AufgabentypHeader>
+	    <ZahlentypHeader>Välj typ av tal</ZahlentypHeader>
+	    <ReihenHeader>Välj tabeller</ReihenHeader>
+	    <EffizientText>1 000 uppgifter på en timme? Ej möjligt på papper!
+Du kommer att bli förvånad över hur många uppgifter ditt barn vill räkna – alldeles frivilligt!</EffizientText>
+	    <ProblemeText>Analysalgoritmen identifierar omedelbart vad som är problematiskt och skapar målriktade övningspaket.</ProblemeText>
+	    <MotivationText>Det utprövade belöningssystemet garanterar hög motivation under lång tid. Övning förvandlas till rolig lek som varar länge.</MotivationText>
+	    <FortschrittText>Med hjälp av statistiken och utvärderingarna från MathClimber får du en bra överblick över barnets framsteg.</FortschrittText>
+	    <SicherText>All data tillhör dig och sparas på din enhet.</SicherText>
+	    <KlarheitText>Genomtänkt design stöttar räknandet utan att distrahera i onödan.</KlarheitText>
+	    <AufgabentypText>1. Bestäm talområde 
+2. Bestäm grundläggande räknesätt
+3. Tid per uppgift
+4. Typ av uppgift</AufgabentypText>
+	    <ZahlentypText>Du bestämmer typ av tal 
+genom att trycka flera gånger. 
+– Utgångstal: 5, 10...
+– Granntal: 4,6,9 ...
+– Mellantal: 3, 7, 8...</ZahlentypText>
+	    <ReihenText>Välj nu den multiplikationstabell
+som du vill att barnen ska öva på.</ReihenText>
+	    <ageSelection>Den sparas nu på din enhet.</ageSelection>
+	    <HowItWorks>Förklaring</HowItWorks>
+
+	</item>
+
+	<item language="th">
+
+		<EffizientHeader>ประสิทธิภาพสูง</EffizientHeader>
+	    <ProblemeHeader>ฝึกฝนตรงเป้าหมาย</ProblemeHeader>
+	    <MotivationHeader>แรงจูงใจระยะยาว</MotivationHeader>
+	    <FortschrittHeader>พัฒนาการที่ชัดเจน</FortschrittHeader>
+	    <SicherHeader>ปลอดภัย</SicherHeader>
+	    <KlarheitHeader>ออกแบบง่ายต่อการใช้งาน</KlarheitHeader>
+	    <AufgabentypHeader>เลือกประเภทโจทย์</AufgabentypHeader>
+	    <ZahlentypHeader>เลือกประเภทเลข</ZahlentypHeader>
+	    <ReihenHeader>เลือกแถว</ReihenHeader>
+	    <EffizientText>1000 โจทย์ภายในหนึ่งชั่วโมง? เป็นไปไม่ได้สำหรับการคำนวณแบบธรรมดาบนแผ่นกระดาษ!
+คุณจะแปลกใจว่าเด็กสามารถทำโจทย์ได้มากเพียงใด</EffizientText>
+	    <ProblemeText>อัลกอริทึมวิเคราะห์สามารถระบุปัญหา และสร้างชุดฝึกอบรมให้ตรงเป้าหมายได้</ProblemeText>
+	    <MotivationText>ระบบรางวัลที่ได้รับการทดลองและทดสอบช่วยให้แรงจูงใจสูง ทำให้การฝึกฝนกลายเป็นเกมส์ที่สนุกในระยะยาว</MotivationText>
+	    <FortschrittText>สถิติและการประเมินของ MathClimber ช่วยให้เห็นภาพรวมที่ชัดเจนเกี่ยวกับพัฒนาการของเด็ก</FortschrittText>
+	    <SicherText>ข้อมูลทั้งหมดเป็นของคุณและเก็บรักษาอยู่ในอุปกรณ์ของคุณ</SicherText>
+	    <KlarheitText>การออกแบบอย่างชาญฉลาดช่วยในการคิดเลขโดยไม่ทำให้เสียสมาธิอย่างไม่จำเป็น</KlarheitText>
+	    <AufgabentypText>1. กำหนดขอบเขตของเลข 
+2. กำหนดรูปแบบในการคิดเลขขั้นพื้นฐาน
+3. ระยะเวลาต่อโจทย์
+4 ประเภทโจทย์</AufgabentypText>
+	    <ZahlentypText>โดยการแตะซ้ำหลายๆ ครั้ง 
+สามารถระบุประเภทของจำนวนได้ 
+- ตัวเลขหลัก: 5, 10 ...
+- ตัวเลขใกล้เคียง: 4, 6, 9....
+- ตัวเลขที่อยู่ระหว่าง: 3, 7, 8 ...</ZahlentypText>
+	    <ReihenText>เลือกแถว
+1x1 ที่ต้องการฝึก</ReihenText>
+	    <ageSelection>การตั้งค่านี้จะถูกบันทึกลงในอุปกรณ์เท่านั้น</ageSelection>
+	    <HowItWorks>คำอธิบาย</HowItWorks>
+
+	</item>
+
+	<item language="tr">
+
+		<EffizientHeader>Son derece verimli</EffizientHeader>
+	    <ProblemeHeader>Odaklı öğrenme</ProblemeHeader>
+	    <MotivationHeader>Yüksek uzun vadeli motivasyon</MotivationHeader>
+	    <FortschrittHeader>Gözle görünür ilerleme</FortschrittHeader>
+	    <SicherHeader>Kesinlikle güvenli</SicherHeader>
+	    <KlarheitHeader>Anlaşılır tasarım</KlarheitHeader>
+	    <AufgabentypHeader>Problem türü seç</AufgabentypHeader>
+	    <ZahlentypHeader>Sayı türü seç</ZahlentypHeader>
+	    <ReihenHeader>Sıra seç</ReihenHeader>
+	    <EffizientText>Saatte 1000 problem mi? Kağıt üzerinde mümkün değil!
+Çocuğunun gönüllü olarak ne kadar çok problem çözeceğine şaşıracaksın.</EffizientText>
+	    <ProblemeText>Analiz algoritması, sorunların nerede olduğunu hemen tespit eder ve uygun eğitim paketlerini oluşturur.</ProblemeText>
+	    <MotivationText>Denenmiş ve test edilmiş ödül sistemi motivasyonu yüksek tutar. Böylece öğrenmek bir oyun haline gelir ve her zaman eğlenceli olur.</MotivationText>
+	    <FortschrittText>MathClimber'in istatistikleri ve değerlendirmeleri çocuğun ilerleyişi hakkında iyi bir genel bakış sunar.</FortschrittText>
+	    <SicherText>Tüm veriler senindir ve cihazında kalır.</SicherText>
+	    <KlarheitText>İyi düşünülmüş tasarım, gereksiz yere dikkat dağıtmadan aritmetiğe yardımcı olur.</KlarheitText>
+	    <AufgabentypText>1. Sayı aralığı belirle 
+2. Temel aritmetik işlemlerini belirle
+3. Problem başına süre
+4. Problem türü</AufgabentypText>
+	    <ZahlentypText>Birkaç kez dokunma ile 
+sayı türü belirlenebilir. 
+-  Temel rakamlar: 5, 10...
+-  Komşu rakamlar: 4, 6, 9....
+-  Ara rakamlar: 3, 7, 8...</ZahlentypText>
+	    <ReihenText>Doğrudan üzerinde çalışmak
+istediğiniz 1x1’in sırasını seçin</ReihenText>
+	    <ageSelection>Bu sadece cihazına kaydedilecektir.</ageSelection>
+	    <HowItWorks>Açıklama</HowItWorks>
+
+	</item>
+
+
+</data>

@@ -1,0 +1,76 @@
+
+cowboy.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_left
+  rotate: false
+  xy: 227, 69
+  size: 74, 117
+  orig: 74, 117
+  offset: 0, 0
+  index: -1
+arm_right
+  rotate: false
+  xy: 340, 270
+  size: 73, 117
+  orig: 73, 117
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 340, 389
+  size: 104, 111
+  orig: 104, 111
+  offset: 0, 0
+  index: -1
+eyes_closed
+  rotate: false
+  xy: 2, 2
+  size: 106, 14
+  orig: 106, 14
+  offset: 0, 0
+  index: -1
+eyes_open
+  rotate: true
+  xy: 446, 408
+  size: 92, 30
+  orig: 92, 30
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 2, 261
+  size: 336, 239
+  orig: 336, 239
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 18
+  size: 223, 168
+  orig: 223, 168
+  offset: 0, 0
+  index: -1
+leg_left
+  rotate: false
+  xy: 303, 130
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+leg_right
+  rotate: false
+  xy: 303, 73
+  size: 51, 55
+  orig: 51, 55
+  offset: 0, 0
+  index: -1
+schatten
+  rotate: false
+  xy: 2, 188
+  size: 407, 71
+  orig: 407, 71
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+0. Checken, ob Leantween installiert ist.
+
+1. Der Main Camera einen "Physics 2d Raycaster geben"
+
+2. Das Prefab "PLayer Selection Screen" in die Szene ziehen
+
+2.1 Um das Layout im Editor zu skalieren: „Player Selection Screen“ auswählen, im Editor auf den Button „SetLayout“ drücken.
+
+3. In der Hierarchie bei "Player Selection Screen/Player Selection/Canvas" die Main Camera setzen
+
+4. Funktion zum Starten des Spiels in das Skript "PS_PlayButtonInfo" einbauen.
+
+5. Um die Anzahl der auswählbaren Spieler zu setzen: "Player Selection Screen/Player Selection/PlayerButtons“ im Editor auswählen und dort den Wert „Max Number Of Players“ setzen.

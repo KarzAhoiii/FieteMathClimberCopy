@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62c56c0130ba1483d97d3bfe67d4dfbe, type: 3}
+  m_Name: YetiCharacterProfile
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1474394530735838, guid: 1a65c5294d8054f2985162f693df8ea5, type: 2}
+  portrait: {fileID: 1464544098451528, guid: 73f4576840a0b41bc89884475e034a3f, type: 2}
+  particle: {fileID: 0}
+  primary: {r: 0.1764706, g: 0.3137255, b: 0.61960787, a: 1}
+  secondary: {r: 0.21960786, g: 0.42352945, b: 0.8313726, a: 1}
+  buttonColor: {r: 0.21960784, g: 0.42352942, b: 0.83137256, a: 1}
+  textcol: {r: 1, g: 1, b: 1, a: 1}
+  priceOverride: 48000
+  isPurchased: 1
+  isLocked: 0
+  id: 31
+  rewardBonus: 5
+  jumpSound: {fileID: 8300000, guid: c6e8b11ee8d1a4aafb0b8cb5c3c2f6e1, type: 3}
+  jumpVoice: {fileID: 0}
+  fallVoice: {fileID: 0}
+  landSound: {fileID: 8300000, guid: 58e55e64878194b6b8b447dce1064066, type: 3}
+  specialVoice: {fileID: 8300000, guid: 3c3fde66019d84a1384c73c22718488b, type: 3}
+  tapVoice: {fileID: 8300000, guid: ec3ee841c105c409eaf454f2a8f37f8e, type: 3}

@@ -1,0 +1,83 @@
+
+vampire.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_left
+  rotate: false
+  xy: 115, 55
+  size: 136, 102
+  orig: 136, 102
+  offset: 0, 0
+  index: -1
+arm_right
+  rotate: false
+  xy: 261, 308
+  size: 136, 102
+  orig: 136, 102
+  offset: 0, 0
+  index: -1
+bat
+  rotate: false
+  xy: 261, 412
+  size: 224, 98
+  orig: 224, 98
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 155, 111
+  orig: 155, 111
+  offset: 0, 0
+  index: -1
+eyes_closed
+  rotate: true
+  xy: 487, 413
+  size: 97, 14
+  orig: 97, 14
+  offset: 0, 0
+  index: -1
+eyes_open
+  rotate: true
+  xy: 265, 176
+  size: 86, 36
+  orig: 86, 36
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 261
+  size: 257, 249
+  orig: 257, 249
+  offset: 0, 0
+  index: -1
+kragen
+  rotate: false
+  xy: 2, 159
+  size: 261, 100
+  orig: 261, 100
+  offset: 0, 0
+  index: -1
+leg_left
+  rotate: true
+  xy: 115, 6
+  size: 47, 89
+  orig: 47, 89
+  offset: 0, 0
+  index: -1
+leg_right
+  rotate: true
+  xy: 261, 264
+  size: 42, 86
+  orig: 42, 86
+  offset: 0, 0
+  index: -1
+schatten
+  rotate: true
+  xy: 399, 3
+  size: 407, 71
+  orig: 407, 71
+  offset: 0, 0
+  index: -1

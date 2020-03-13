@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FieteMathClimber", "Assembly-CSharp.csproj", "{02114D42-B003-3401-DBE8-A98ECDFE8EB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FieteMathClimber", "Assembly-CSharp-firstpass.csproj", "{1341B597-A43F-1BC1-55A1-953F8125F0B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FieteMathClimber", "Assembly-CSharp-Editor-firstpass.csproj", "{0FCAD25A-223C-439E-9FAB-B5BDBF95C23C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FieteMathClimber", "Assembly-CSharp-Editor.csproj", "{9C0A0044-F1EF-D37D-E02C-D3888DEDE755}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02114D42-B003-3401-DBE8-A98ECDFE8EB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02114D42-B003-3401-DBE8-A98ECDFE8EB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02114D42-B003-3401-DBE8-A98ECDFE8EB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02114D42-B003-3401-DBE8-A98ECDFE8EB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1341B597-A43F-1BC1-55A1-953F8125F0B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1341B597-A43F-1BC1-55A1-953F8125F0B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1341B597-A43F-1BC1-55A1-953F8125F0B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1341B597-A43F-1BC1-55A1-953F8125F0B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FCAD25A-223C-439E-9FAB-B5BDBF95C23C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FCAD25A-223C-439E-9FAB-B5BDBF95C23C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FCAD25A-223C-439E-9FAB-B5BDBF95C23C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FCAD25A-223C-439E-9FAB-B5BDBF95C23C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C0A0044-F1EF-D37D-E02C-D3888DEDE755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C0A0044-F1EF-D37D-E02C-D3888DEDE755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C0A0044-F1EF-D37D-E02C-D3888DEDE755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C0A0044-F1EF-D37D-E02C-D3888DEDE755}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

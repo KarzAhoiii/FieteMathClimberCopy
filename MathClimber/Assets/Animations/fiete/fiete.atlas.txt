@@ -1,0 +1,76 @@
+
+fiete.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_left
+  rotate: false
+  xy: 186, 264
+  size: 106, 173
+  orig: 106, 173
+  offset: 0, 0
+  index: -1
+arm_right
+  rotate: false
+  xy: 294, 265
+  size: 106, 172
+  orig: 106, 172
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 221
+  size: 182, 216
+  orig: 182, 216
+  offset: 0, 0
+  index: -1
+eyes_closed
+  rotate: true
+  xy: 498, 393
+  size: 117, 12
+  orig: 117, 12
+  offset: 0, 0
+  index: -1
+eyes_open
+  rotate: false
+  xy: 186, 243
+  size: 104, 19
+  orig: 104, 19
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 151, 13
+  size: 206, 54
+  orig: 206, 54
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 3
+  size: 216, 147
+  orig: 216, 147
+  offset: 0, 0
+  index: -1
+leg_left
+  rotate: true
+  xy: 411, 384
+  size: 60, 85
+  orig: 60, 85
+  offset: 0, 0
+  index: -1
+leg_right
+  rotate: true
+  xy: 411, 446
+  size: 64, 85
+  orig: 64, 85
+  offset: 0, 0
+  index: -1
+schatten
+  rotate: false
+  xy: 2, 439
+  size: 407, 71
+  orig: 407, 71
+  offset: 0, 0
+  index: -1

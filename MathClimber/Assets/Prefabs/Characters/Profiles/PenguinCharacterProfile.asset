@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62c56c0130ba1483d97d3bfe67d4dfbe, type: 3}
+  m_Name: PenguinCharacterProfile
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1616330725015936, guid: 814062f67c6cf4b148f56f3054873f72, type: 2}
+  portrait: {fileID: 1966895396981064, guid: 8206e69549f9542e7a183f6d47e22e20, type: 2}
+  particle: {fileID: 0}
+  primary: {r: 0.49803925, g: 0.8588236, b: 0.9921569, a: 1}
+  secondary: {r: 0.70980394, g: 0.9294118, b: 0.9960785, a: 1}
+  buttonColor: {r: 0.70980394, g: 0.92941177, b: 0.99607843, a: 1}
+  textcol: {r: 0, g: 0, b: 0, a: 1}
+  priceOverride: 12000
+  isPurchased: 0
+  isLocked: 0
+  id: 20
+  rewardBonus: 3
+  jumpSound: {fileID: 8300000, guid: c6e8b11ee8d1a4aafb0b8cb5c3c2f6e1, type: 3}
+  jumpVoice: {fileID: 8300000, guid: b7bd416dc00e44264bc9c367d6d209ca, type: 3}
+  fallVoice: {fileID: 8300000, guid: 99eb4482544484e0d9c9547505c27058, type: 3}
+  landSound: {fileID: 8300000, guid: 58e55e64878194b6b8b447dce1064066, type: 3}
+  specialVoice: {fileID: 8300000, guid: c5c828baee9f043e7a6a1b5d11af302e, type: 3}
+  tapVoice: {fileID: 8300000, guid: 31ce803ab20024900b80087637a98e2d, type: 3}

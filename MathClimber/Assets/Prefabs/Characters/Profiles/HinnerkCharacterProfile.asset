@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62c56c0130ba1483d97d3bfe67d4dfbe, type: 3}
+  m_Name: HinnerkCharacterProfile
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1014035993270296, guid: 12923e168cb8c4c8eb5481336ecbe8a6, type: 2}
+  portrait: {fileID: 1649593324832644, guid: daba340c5048b4005bf1386b2c1ccd58, type: 2}
+  particle: {fileID: 0}
+  primary: {r: 0.49803925, g: 0.8588236, b: 0.9921569, a: 1}
+  secondary: {r: 0.70980394, g: 0.9294118, b: 0.9960785, a: 1}
+  buttonColor: {r: 0.70980394, g: 0.92941177, b: 0.99607843, a: 1}
+  textcol: {r: 0, g: 0, b: 0, a: 1}
+  priceOverride: 600
+  isPurchased: 1
+  isLocked: 0
+  id: 2
+  rewardBonus: 0
+  jumpSound: {fileID: 8300000, guid: c6e8b11ee8d1a4aafb0b8cb5c3c2f6e1, type: 3}
+  jumpVoice: {fileID: 0}
+  fallVoice: {fileID: 0}
+  landSound: {fileID: 8300000, guid: 58e55e64878194b6b8b447dce1064066, type: 3}
+  specialVoice: {fileID: 8300000, guid: 1af942830b49e42da80fa3fee3a401c2, type: 3}
+  tapVoice: {fileID: 8300000, guid: 6638c88fa00924d62b6fab90e8c2df35, type: 3}

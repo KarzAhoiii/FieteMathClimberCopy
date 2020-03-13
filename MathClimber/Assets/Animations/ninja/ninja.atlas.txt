@@ -1,0 +1,76 @@
+
+ninja.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_left
+  rotate: false
+  xy: 50, 26
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+arm_right
+  rotate: false
+  xy: 412, 64
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 16
+  size: 46, 62
+  orig: 46, 62
+  offset: 0, 0
+  index: -1
+eyes_closed
+  rotate: false
+  xy: 444, 110
+  size: 48, 6
+  orig: 48, 6
+  offset: 0, 0
+  index: -1
+eyes_open
+  rotate: false
+  xy: 2, 2
+  size: 40, 12
+  orig: 40, 12
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 208, 23
+  size: 103, 93
+  orig: 103, 93
+  offset: 0, 0
+  index: -1
+katana
+  rotate: false
+  xy: 313, 25
+  size: 97, 91
+  orig: 97, 91
+  offset: 0, 0
+  index: -1
+leg_left
+  rotate: false
+  xy: 82, 50
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+leg_right
+  rotate: false
+  xy: 412, 34
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+schatten
+  rotate: false
+  xy: 2, 80
+  size: 204, 36
+  orig: 204, 36
+  offset: 0, 0
+  index: -1

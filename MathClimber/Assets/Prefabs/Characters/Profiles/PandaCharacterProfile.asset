@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62c56c0130ba1483d97d3bfe67d4dfbe, type: 3}
+  m_Name: PandaCharacterProfile
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1996118105686066, guid: adcb2fd67bffa49f5a1898142ca743c8, type: 2}
+  portrait: {fileID: 1174621551565516, guid: aaf2cbc6bfa824637a018fb6b7b9b816, type: 2}
+  particle: {fileID: 0}
+  primary: {r: 0.802, g: 0.13366663, b: 0.20953147, a: 1}
+  secondary: {r: 0.9686275, g: 0.16470589, b: 0.25490198, a: 1}
+  buttonColor: {r: 0.96862745, g: 0.16470589, b: 0.25490198, a: 1}
+  textcol: {r: 1, g: 1, b: 1, a: 1}
+  priceOverride: 9000
+  isPurchased: 0
+  isLocked: 0
+  id: 17
+  rewardBonus: 3
+  jumpSound: {fileID: 8300000, guid: c6e8b11ee8d1a4aafb0b8cb5c3c2f6e1, type: 3}
+  jumpVoice: {fileID: 0}
+  fallVoice: {fileID: 0}
+  landSound: {fileID: 8300000, guid: 58e55e64878194b6b8b447dce1064066, type: 3}
+  specialVoice: {fileID: 8300000, guid: bee1e580f80ce48678328fbea869be11, type: 3}
+  tapVoice: {fileID: 8300000, guid: 61a546af5e65446c3a919d0577d99b55, type: 3}

@@ -1,0 +1,105 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.Events;
+using UnityEngine.EventSystems;
+
+public class FMC_StartButton : MonoBehaviour, 
+IPointerDownHandler,
+IPointerUpHandler,
+IPointerExitHandler
+{
+
+	public UnityEvent customCallback;
+    public AnimationCurve buttonScaleCurve;
+
+    private bool clickPossible = false;
+    private Vector3 startScale;
+
+    private int tweenID01;
+    private int tweenID02;
+
+    private void Awake ()
+	{
+        startScale = gameObject.transform.localScale;
+        tweenButton();
+	}
+
+    private void tweenButton()
+    {
+        LeanTween.cancel(tweenID01);
+        tweenID01 = LeanTween.scale(gameObject, startScale * 1.05f, 3.0f).setEase(buttonScaleCurve).setOnComplete(tweenButton).id;
+    }
+
+	public void OnPointerDown(PointerEventData evd)
+	{
+        LeanTween.cancel(tweenID01);
+        clickPossible = true;
+        animateDown();
+		Debug.Log ("Pointer Down");
+    }
+
+    public void OnPointerUp(PointerEventData evd)
+    {
+        if (clickPossible)
+<<<<<<< HEAD
+        {
+            //animateUpDontStartAgain();
+			startAction ();
+        }
+		Debug.Log ("Pointer UP");
+	}
+
+	public void OnPointerExit (PointerEventData evd)
+	{
+        clickPossible = false;
+        animateUp();
+		Debug.Log ("Pointer exit");
+	}
+=======
+            animateUpDontStartAgain();
+    }
+>>>>>>> 62ecf38dedf5473a1f8681fa1a2c9e5274b6c8d3
+
+    public void OnPointerExit (PointerEventData evd)
+	{
+<<<<<<< HEAD
+		customCallback.Invoke();
+		Debug.Log ("Invoken");
+=======
+        if (clickPossible)
+        {
+            clickPossible = false;
+            animateUp();
+        }
+>>>>>>> 62ecf38dedf5473a1f8681fa1a2c9e5274b6c8d3
+	}
+
+    private void animateDown()
+    {
+        LeanTween.cancel(tweenID01);
+        tweenID01 = LeanTween.scale(gameObject, startScale * 0.9f, 0.05f).id;
+    }
+
+    private void animateUp()
+    {
+        LeanTween.cancel(tweenID01);
+        tweenID01 = LeanTween.scale(gameObject, startScale, 0.05f).setOnComplete(tweenButton).id;
+    }
+
+    private void animateUpDontStartAgain()
+    {
+        if (FMC_GameDataController.instance)
+            LeanAudio.play(FMC_GameDataController.instance.buttonClickSound, FMC_GameDataController.instance.buttonClickVolume);
+
+        LeanTween.cancel(tweenID01);
+        tweenID02 = LeanTween.scale(gameObject, startScale, 0.05f).setOnComplete(startAction).id;
+        //Debug.Log(tweenID01 + ", " + tweenID02);
+    }
+
+    protected virtual void startAction()
+    {
+        customCallback.Invoke();
+    }
+
+}

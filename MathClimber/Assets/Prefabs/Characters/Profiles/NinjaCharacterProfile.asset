@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62c56c0130ba1483d97d3bfe67d4dfbe, type: 3}
+  m_Name: NinjaCharacterProfile
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1890736697445548, guid: 9c279b25379f54efba9429cd31a8a37a, type: 2}
+  portrait: {fileID: 1784617827119978, guid: 99f51f8be24c44d7fab2a37a6ecebefd, type: 2}
+  particle: {fileID: 0}
+  primary: {r: 0.9490197, g: 0.7803922, b: 0.1764706, a: 1}
+  secondary: {r: 0.9921569, g: 0.86666673, b: 0.21568629, a: 1}
+  buttonColor: {r: 0.99215686, g: 0.8666667, b: 0.21568628, a: 1}
+  textcol: {r: 0, g: 0, b: 0, a: 1}
+  priceOverride: 4800
+  isPurchased: 1
+  isLocked: 0
+  id: 11
+  rewardBonus: 2
+  jumpSound: {fileID: 8300000, guid: c6e8b11ee8d1a4aafb0b8cb5c3c2f6e1, type: 3}
+  jumpVoice: {fileID: 8300000, guid: d6be5015ec2dc423398797696c06d268, type: 3}
+  fallVoice: {fileID: 8300000, guid: 96d0dfd85f2b54e718c1d2aa987a04bd, type: 3}
+  landSound: {fileID: 8300000, guid: 58e55e64878194b6b8b447dce1064066, type: 3}
+  specialVoice: {fileID: 8300000, guid: b3abd063f974049ef864b6ad091e0ba7, type: 3}
+  tapVoice: {fileID: 8300000, guid: 19aff96c09d6048fb8f40cccc92cb924, type: 3}

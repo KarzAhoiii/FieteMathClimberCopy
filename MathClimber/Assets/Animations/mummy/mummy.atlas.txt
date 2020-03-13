@@ -1,0 +1,76 @@
+
+mummy.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+band1
+  rotate: true
+  xy: 477, 51
+  size: 75, 30
+  orig: 75, 30
+  offset: 0, 0
+  index: -1
+band2
+  rotate: true
+  xy: 455, 39
+  size: 87, 20
+  orig: 87, 20
+  offset: 0, 0
+  index: -1
+band3
+  rotate: true
+  xy: 436, 24
+  size: 102, 17
+  orig: 102, 17
+  offset: 0, 0
+  index: -1
+band4
+  rotate: false
+  xy: 75, 69
+  size: 95, 19
+  orig: 95, 19
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 208, 22
+  size: 104, 113
+  orig: 104, 113
+  offset: 0, 0
+  index: -1
+eyes_closed
+  rotate: false
+  xy: 2, 2
+  size: 77, 34
+  orig: 77, 34
+  offset: 0, 0
+  index: -1
+eyes_open
+  rotate: false
+  xy: 81, 2
+  size: 51, 14
+  orig: 51, 14
+  offset: 0, 0
+  index: -1
+feet
+  rotate: false
+  xy: 2, 38
+  size: 71, 50
+  orig: 71, 50
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 323, 18
+  size: 111, 108
+  orig: 111, 108
+  offset: 0, 0
+  index: -1
+schatten
+  rotate: false
+  xy: 2, 90
+  size: 204, 36
+  orig: 204, 36
+  offset: 0, 0
+  index: -1

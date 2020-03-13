@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62c56c0130ba1483d97d3bfe67d4dfbe, type: 3}
+  m_Name: KidCharacterProfile
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1149788548971598, guid: 864833c947aee42089e8a976f72ab4bd, type: 2}
+  portrait: {fileID: 1063961403235104, guid: ae98bca346a5f47418421edf0ce33bf7, type: 2}
+  particle: {fileID: 0}
+  primary: {r: 0.5254902, g: 0.6509804, b: 0.2509804, a: 1}
+  secondary: {r: 0.6666667, g: 0.7960785, b: 0.3803922, a: 1}
+  buttonColor: {r: 0.6666667, g: 0.79607844, b: 0.38039216, a: 1}
+  textcol: {r: 0, g: 0, b: 0, a: 1}
+  priceOverride: 1200
+  isPurchased: 0
+  isLocked: 0
+  id: 4
+  rewardBonus: 1
+  jumpSound: {fileID: 8300000, guid: c6e8b11ee8d1a4aafb0b8cb5c3c2f6e1, type: 3}
+  jumpVoice: {fileID: 8300000, guid: f8e1d0a7f98374eceb2f409dd1532f2a, type: 3}
+  fallVoice: {fileID: 8300000, guid: c3ba0ce805ff24fadae9cf64d9bc2dd2, type: 3}
+  landSound: {fileID: 8300000, guid: 58e55e64878194b6b8b447dce1064066, type: 3}
+  specialVoice: {fileID: 8300000, guid: aed187182fc5c4132b3dfd2a1023cff3, type: 3}
+  tapVoice: {fileID: 8300000, guid: 866b7288703e8452d93394f6080db18a, type: 3}

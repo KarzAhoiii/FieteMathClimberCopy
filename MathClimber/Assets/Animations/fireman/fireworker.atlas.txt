@@ -1,0 +1,76 @@
+
+fireworker.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_left
+  rotate: true
+  xy: 548, 836
+  size: 119, 203
+  orig: 119, 203
+  offset: 0, 0
+  index: -1
+arm_right
+  rotate: true
+  xy: 753, 837
+  size: 118, 202
+  orig: 118, 202
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 691
+  size: 276, 264
+  orig: 276, 264
+  offset: 0, 0
+  index: -1
+eyes_closed
+  rotate: false
+  xy: 75, 434
+  size: 123, 17
+  orig: 123, 17
+  offset: 0, 0
+  index: -1
+eyes_open
+  rotate: true
+  xy: 246, 591
+  size: 98, 27
+  orig: 98, 27
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 280, 791
+  size: 266, 164
+  orig: 266, 164
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 75, 453
+  size: 236, 169
+  orig: 236, 169
+  offset: 0, 0
+  index: -1
+leg_left
+  rotate: false
+  xy: 280, 708
+  size: 60, 81
+  orig: 60, 81
+  offset: 0, 0
+  index: -1
+leg_right
+  rotate: false
+  xy: 2, 200
+  size: 63, 80
+  orig: 63, 80
+  offset: 0, 0
+  index: -1
+schatten
+  rotate: true
+  xy: 2, 282
+  size: 407, 71
+  orig: 407, 71
+  offset: 0, 0
+  index: -1

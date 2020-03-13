@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62c56c0130ba1483d97d3bfe67d4dfbe, type: 3}
+  m_Name: SkeletonCharacterProfile
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1587667408952380, guid: 89469532df4c6466eaabb8667c37222c, type: 2}
+  portrait: {fileID: 1345703898415390, guid: 4f008786f8cda408cbc3afde9f23995c, type: 2}
+  particle: {fileID: 0}
+  primary: {r: 0.18431373, g: 0.18431373, b: 0.18431373, a: 1}
+  secondary: {r: 0.30980393, g: 0.30980393, b: 0.30980393, a: 1}
+  buttonColor: {r: 0.38431373, g: 0.38431373, b: 0.38431373, a: 1}
+  textcol: {r: 1, g: 1, b: 1, a: 1}
+  priceOverride: 64000
+  isPurchased: 1
+  isLocked: 0
+  id: 34
+  rewardBonus: 6
+  jumpSound: {fileID: 8300000, guid: c6e8b11ee8d1a4aafb0b8cb5c3c2f6e1, type: 3}
+  jumpVoice: {fileID: 8300000, guid: b507ca5d71ed7427ca9f8b043368b643, type: 3}
+  fallVoice: {fileID: 8300000, guid: ad683b6b9612644fcb9ffb42f99482f1, type: 3}
+  landSound: {fileID: 8300000, guid: 58e55e64878194b6b8b447dce1064066, type: 3}
+  specialVoice: {fileID: 8300000, guid: c50588887da8f4344b73e3ccbb3fe23b, type: 3}
+  tapVoice: {fileID: 8300000, guid: 06daf7f7670364bde92be2b6ded2fe33, type: 3}

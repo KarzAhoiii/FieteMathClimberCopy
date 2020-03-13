@@ -1,0 +1,55 @@
+
+trashcan.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_left
+  rotate: true
+  xy: 2, 2
+  size: 104, 84
+  orig: 104, 84
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 108
+  size: 211, 187
+  orig: 211, 187
+  offset: 0, 0
+  index: -1
+eyes_closed
+  rotate: false
+  xy: 294, 390
+  size: 109, 47
+  orig: 109, 47
+  offset: 0, 0
+  index: -1
+eyes_open
+  rotate: false
+  xy: 88, 60
+  size: 106, 46
+  orig: 106, 46
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 215, 69
+  size: 226, 118
+  orig: 226, 118
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 297
+  size: 290, 140
+  orig: 290, 140
+  offset: 0, 0
+  index: -1
+schatten
+  rotate: false
+  xy: 2, 439
+  size: 407, 71
+  orig: 407, 71
+  offset: 0, 0
+  index: -1

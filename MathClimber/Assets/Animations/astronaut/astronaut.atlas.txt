@@ -1,0 +1,76 @@
+
+astronaut.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_left
+  rotate: false
+  xy: 297, 300
+  size: 95, 137
+  orig: 95, 137
+  offset: 0, 0
+  index: -1
+arm_right
+  rotate: false
+  xy: 159, 72
+  size: 94, 138
+  orig: 94, 138
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 53
+  size: 155, 157
+  orig: 155, 157
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 212
+  size: 247, 225
+  orig: 247, 225
+  offset: 0, 0
+  index: -1
+leg_left
+  rotate: false
+  xy: 394, 330
+  size: 78, 100
+  orig: 78, 100
+  offset: 0, 0
+  index: -1
+leg_right
+  rotate: true
+  xy: 411, 432
+  size: 78, 99
+  orig: 78, 99
+  offset: 0, 0
+  index: -1
+schatten
+  rotate: false
+  xy: 2, 439
+  size: 407, 71
+  orig: 407, 71
+  offset: 0, 0
+  index: -1
+wave1
+  rotate: true
+  xy: 474, 310
+  size: 120, 26
+  orig: 120, 26
+  offset: 0, 0
+  index: -1
+wave2
+  rotate: false
+  xy: 2, 13
+  size: 158, 38
+  orig: 158, 38
+  offset: 0, 0
+  index: -1
+wave3
+  rotate: true
+  xy: 251, 243
+  size: 194, 44
+  orig: 194, 44
+  offset: 0, 0
+  index: -1

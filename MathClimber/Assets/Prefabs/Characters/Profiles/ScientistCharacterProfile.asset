@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62c56c0130ba1483d97d3bfe67d4dfbe, type: 3}
+  m_Name: ScientistCharacterProfile
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1087464767508692, guid: a8d47cd59dd674b599e895d1c198e97a, type: 2}
+  portrait: {fileID: 1166977170820474, guid: 1de8f815abb174632a0568ac9ad2bc99, type: 2}
+  particle: {fileID: 0}
+  primary: {r: 0.1764706, g: 0.3137255, b: 0.61960787, a: 1}
+  secondary: {r: 0.21960786, g: 0.42352945, b: 0.8313726, a: 1}
+  buttonColor: {r: 0.21960784, g: 0.42352942, b: 0.83137256, a: 1}
+  textcol: {r: 1, g: 1, b: 1, a: 1}
+  priceOverride: 2400
+  isPurchased: 0
+  isLocked: 0
+  id: 6
+  rewardBonus: 1
+  jumpSound: {fileID: 8300000, guid: c6e8b11ee8d1a4aafb0b8cb5c3c2f6e1, type: 3}
+  jumpVoice: {fileID: 0}
+  fallVoice: {fileID: 0}
+  landSound: {fileID: 8300000, guid: 58e55e64878194b6b8b447dce1064066, type: 3}
+  specialVoice: {fileID: 8300000, guid: 41e9922fb7491467983d1373bd61eff5, type: 3}
+  tapVoice: {fileID: 8300000, guid: 857d0348a69284190b0c28ef3648556b, type: 3}

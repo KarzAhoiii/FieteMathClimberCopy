@@ -1,0 +1,76 @@
+
+nurse.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_left
+  rotate: false
+  xy: 288, 379
+  size: 86, 121
+  orig: 86, 121
+  offset: 0, 0
+  index: -1
+arm_right
+  rotate: false
+  xy: 100, 101
+  size: 86, 121
+  orig: 86, 121
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 24
+  size: 96, 198
+  orig: 96, 198
+  offset: 0, 0
+  index: -1
+eyes_closed
+  rotate: false
+  xy: 188, 212
+  size: 109, 10
+  orig: 109, 10
+  offset: 0, 0
+  index: -1
+eyes_open
+  rotate: false
+  xy: 2, 2
+  size: 96, 20
+  orig: 96, 20
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 376, 431
+  size: 103, 69
+  orig: 103, 69
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 297
+  size: 284, 203
+  orig: 284, 203
+  offset: 0, 0
+  index: -1
+leg_left
+  rotate: false
+  xy: 288, 316
+  size: 46, 61
+  orig: 46, 61
+  offset: 0, 0
+  index: -1
+leg_right
+  rotate: false
+  xy: 100, 38
+  size: 46, 61
+  orig: 46, 61
+  offset: 0, 0
+  index: -1
+schatten
+  rotate: false
+  xy: 2, 224
+  size: 407, 71
+  orig: 407, 71
+  offset: 0, 0
+  index: -1

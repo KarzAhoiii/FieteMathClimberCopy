@@ -1,0 +1,833 @@
+<data>
+	<item language="de">
+
+	    <Hallo>Hallo</Hallo>
+	    <FreiesRechnen>Freies Rechnen</FreiesRechnen>
+	    <Grundlagen>Grundlagen</Grundlagen>
+	    <EinmalEins>Einmaleins</EinmalEins>
+	    <DeineStatistik>Deine Statistik</DeineStatistik>
+	    <Talente>Talente</Talente>
+	    <Probleme>Probleme</Probleme>
+	    <Lernfortschritt>Lernfortschritt</Lernfortschritt>
+	    <RichtigGeloesteAufgaben>Lösungen/Sitzung</RichtigGeloesteAufgaben>
+	    <Erfolgsquote>Erfolgsquote</Erfolgsquote>
+	    <ZeitProAufgabe>Zeit/Aufgabe</ZeitProAufgabe>
+	    <Spiefortschritt>Spielfortschritt</Spiefortschritt>
+	    <GeloesteAufgaben>Gelöste Aufgaben</GeloesteAufgaben>
+	    <Fehlerquote>Fehlerquote</Fehlerquote>
+	    <RichtigGeloest>Richtig gelöste Aufgaben</RichtigGeloest>
+	    <FalschBeantwortet>Falsch beantwortet</FalschBeantwortet>
+	    <Gesamtspielzeit>Gesamtspielzeit</Gesamtspielzeit>
+	    <ZeitProAufgabe>Zeit pro Aufgabe</ZeitProAufgabe>
+	    <GesammelteMuenzen>Gesammelte Münzen</GesammelteMuenzen>
+	    <FreigeschalteteFiguren>Freigeschaltete Figuren</FreigeschalteteFiguren>
+	    <Auswahl>AUSWAHL</Auswahl>
+	    <Uebungen>Übungen</Uebungen>
+	    <Gerade>Gerade</Gerade>
+	    <Ungerade>Ungerade</Ungerade>
+	    <EinmalEinsGr>Großes Einmaleins</EinmalEinsGr>
+	    <Uebersprungen>Übersprungen</Uebersprungen>
+	    <UebungenThema>Übungen nach Thema</UebungenThema>
+	    <Uebersicht>Alle gelösten Aufgaben</Uebersicht>
+	    <Klasse1>Erste Klasse</Klasse1>
+	    <Klasse2>Zweite Klasse</Klasse2>
+	    <Klasse3>Dritte Klasse</Klasse3>
+	    <Klasse4>Vierte Klasse</Klasse4>
+	    <Klasse5>Fünfte Klasse</Klasse5>
+	    <Vorschule>Vorschule</Vorschule>
+	    <AddBis20>Addition bis 20</AddBis20>
+	    <AddBis100>Addition bis 100</AddBis100>
+	    <SubBis20>Subtraktion bis 20</SubBis20>
+	    <SubBis100>Subtraktion bis 100</SubBis100>
+	    <MulBis50>Multiplikation bis 50</MulBis50>
+	    <MulBis100>Multiplikation bis 100</MulBis100>
+	    <DivBis50>Division bis 50</DivBis50>
+	    <DisBis100>Division bis 100</DisBis100>
+	    <AufgabenBis50>Aufgaben bis 50</AufgabenBis50>
+	    <AufgabenBis100>Aufgaben bis 100</AufgabenBis100>
+	    <Verdoppeln>Verdoppeln</Verdoppeln>
+	    <ZehnerUebergang>Zehnerübergang</ZehnerUebergang>
+	    <SofortUeben>Sofort gezielt üben</SofortUeben>
+	    <GeloesteAufgabenVon>Gelöste Aufgaben von</GeloesteAufgabenVon>
+	    <ErkannteTalente>Erkannte Talente</ErkannteTalente>
+	    <ErkannteProbleme>Erkannte Probleme</ErkannteProbleme>
+
+	</item>
+
+
+	<item language="en">
+
+		<Hallo>Hello</Hallo>
+	    <FreiesRechnen>Free arithmetic</FreiesRechnen>
+	    <Grundlagen>Basics</Grundlagen>
+	    <EinmalEins>Quick multiplication table</EinmalEins>
+	    <DeineStatistik>Your statistics</DeineStatistik>
+	    <Talente>Skills</Talente>
+	    <Probleme>Issues</Probleme>
+	    <Lernfortschritt>Learning progress</Lernfortschritt>
+	    <RichtigGeloesteAufgaben>Solutions/session</RichtigGeloesteAufgaben>
+	    <Erfolgsquote>Success rate</Erfolgsquote>
+	    <ZeitProAufgabe>Time/task</ZeitProAufgabe>
+	    <Spiefortschritt>Game progress</Spiefortschritt>
+	    <GeloesteAufgaben>Tasks solved</GeloesteAufgaben>
+	    <Fehlerquote>Error rate</Fehlerquote>
+	    <RichtigGeloest>Correctly solved tasks</RichtigGeloest>
+	    <FalschBeantwortet>Incorrectly solved tasks</FalschBeantwortet>
+	    <Gesamtspielzeit>Total play time</Gesamtspielzeit>
+	    <ZeitProAufgabe>Time per task</ZeitProAufgabe>
+	    <GesammelteMuenzen>Coins collected</GesammelteMuenzen>
+	    <FreigeschalteteFiguren>Enabled figures</FreigeschalteteFiguren>
+	    <Auswahl>Selection</Auswahl>
+	    <Uebungen>Exercises</Uebungen>
+	    <Gerade>Even</Gerade>
+	    <Ungerade>Odd</Ungerade>
+	    <EinmalEinsGr>Big multiplication table</EinmalEinsGr>
+	    <Uebersprungen>Skips</Uebersprungen>
+	    <UebungenThema>Exercises by topic</UebungenThema>
+	    <Uebersicht>All solved tasks</Uebersicht>
+	    <Klasse1>1. grade</Klasse1>
+	    <Klasse2>2. grade</Klasse2>
+	    <Klasse3>3. grade</Klasse3>
+	    <Klasse4>4. grade</Klasse4>
+	    <Klasse5>5. grade</Klasse5>
+	    <Vorschule>Kindergarten</Vorschule>
+	    <AddBis20>Addition up to 20</AddBis20>
+	    <AddBis100>Addition up to 100</AddBis100>
+	    <SubBis20>Subtraction up to 20</SubBis20>
+	    <SubBis100>Subtraction up to 100</SubBis100>
+	    <MulBis50>Multiplication up to 50</MulBis50>
+	    <MulBis100>Multiplication up to 100</MulBis100>
+	    <DivBis50>Division up to 50</DivBis50>
+	    <DisBis100>Division up to 100</DisBis100>
+	    <AufgabenBis50>Tasks up to 50</AufgabenBis50>
+	    <AufgabenBis100>Tasks up to 100</AufgabenBis100>
+	    <Verdoppeln>Doubling</Verdoppeln>
+	    <ZehnerUebergang>Carrying tens</ZehnerUebergang>
+	    <SofortUeben>Practice immediately</SofortUeben>
+	    <GeloesteAufgabenVon>Number of tasks solved out of</GeloesteAufgabenVon>
+	    <ErkannteTalente>Skills mastered</ErkannteTalente>
+	    <ErkannteProbleme>Issues detected</ErkannteProbleme>
+
+	</item>
+
+
+	<item language="zh">
+
+		<Hallo>您好</Hallo>
+	    <FreiesRechnen>自由计算</FreiesRechnen>
+	    <Grundlagen>基础</Grundlagen>
+	    <EinmalEins>小数乘法表</EinmalEins>
+	    <DeineStatistik>您的统计</DeineStatistik>
+	    <Talente>天赋</Talente>
+	    <Probleme>问题</Probleme>
+	    <Lernfortschritt>学习进度</Lernfortschritt>
+	    <RichtigGeloesteAufgaben>解决方案/会话</RichtigGeloesteAufgaben>
+	    <Erfolgsquote>成功率</Erfolgsquote>
+	    <ZeitProAufgabe>时间/任务</ZeitProAufgabe>
+	    <Spiefortschritt>游戏进度</Spiefortschritt>
+	    <GeloesteAufgaben>已完成的任务</GeloesteAufgaben>
+	    <Fehlerquote>错误率</Fehlerquote>
+	    <RichtigGeloest>正确完成的任务</RichtigGeloest>
+	    <FalschBeantwortet>回答错误</FalschBeantwortet>
+	    <Gesamtspielzeit>总游戏时间</Gesamtspielzeit>
+	    <ZeitProAufgabe>每项任务的时间</ZeitProAufgabe>
+	    <GesammelteMuenzen>收集的金币</GesammelteMuenzen>
+	    <FreigeschalteteFiguren>解锁的人物</FreigeschalteteFiguren>
+	    <Auswahl>选择</Auswahl>
+	    <Uebungen>练习</Uebungen>
+	    <Gerade>偶数</Gerade>
+	    <Ungerade>奇数</Ungerade>
+	    <EinmalEinsGr>大数乘法表</EinmalEinsGr>
+	    <Uebersprungen>跳过</Uebersprungen>
+	    <UebungenThema>按题目练习</UebungenThema>
+	    <Uebersicht>所有已完成的任务</Uebersicht>
+	    <Klasse1>1.年级</Klasse1>
+	    <Klasse2>2.年级</Klasse2>
+	    <Klasse3>3.年级</Klasse3>
+	    <Klasse4>4.年级</Klasse4>
+	    <Klasse5>5.年级</Klasse5>
+	    <Vorschule>幼儿园</Vorschule>
+	    <AddBis20>20 以内加法</AddBis20>
+	    <AddBis100>100 以内加法</AddBis100>
+	    <SubBis20>20 以内减法</SubBis20>
+	    <SubBis100>100 以内减法</SubBis100>
+	    <MulBis50>50 以内乘法</MulBis50>
+	    <MulBis100>100 以内乘法</MulBis100>
+	    <DivBis50>50 以内除法</DivBis50>
+	    <DisBis100>100 以内除法</DisBis100>
+	    <AufgabenBis50>50 以内任务</AufgabenBis50>
+	    <AufgabenBis100>100 以内任务</AufgabenBis100>
+	    <Verdoppeln>加倍</Verdoppeln>
+	    <ZehnerUebergang>满十进位</ZehnerUebergang>
+	    <SofortUeben>立即有针对性地练习</SofortUeben>
+	    <GeloesteAufgabenVon>已完成的任务</GeloesteAufgabenVon>
+	    <ErkannteTalente>发现的天赋</ErkannteTalente>
+	    <ErkannteProbleme>发现的问题</ErkannteProbleme>
+
+	</item>
+
+
+	<item language="da">
+
+		<Hallo>Hej</Hallo>
+	    <FreiesRechnen>Fri regning</FreiesRechnen>
+	    <Grundlagen>Grundlæggende</Grundlagen>
+	    <EinmalEins>Den lille tabel</EinmalEins>
+	    <DeineStatistik>Din statistik</DeineStatistik>
+	    <Talente>Talenter</Talente>
+	    <Probleme>Problemer</Probleme>
+	    <Lernfortschritt>Læringsfremskridt</Lernfortschritt>
+	    <RichtigGeloesteAufgaben>Løsninger/session</RichtigGeloesteAufgaben>
+	    <Erfolgsquote>Succesrate</Erfolgsquote>
+	    <ZeitProAufgabe>Tid/opgave</ZeitProAufgabe>
+	    <Spiefortschritt>Spilfremskridt</Spiefortschritt>
+	    <GeloesteAufgaben>Løste opgaver</GeloesteAufgaben>
+	    <Fehlerquote>Fejlkvote</Fehlerquote>
+	    <RichtigGeloest>Rigtig løste opgaver</RichtigGeloest>
+	    <FalschBeantwortet>Forkerte svar</FalschBeantwortet>
+	    <Gesamtspielzeit>Samlet spilletid</Gesamtspielzeit>
+	    <ZeitProAufgabe>Tid pr. opgave</ZeitProAufgabe>
+	    <GesammelteMuenzen>Indsamlede mønter</GesammelteMuenzen>
+	    <FreigeschalteteFiguren>Oplåste figurer</FreigeschalteteFiguren>
+	    <Auswahl>Valg</Auswahl>
+	    <Uebungen>Øvelser</Uebungen>
+	    <Gerade>Lige</Gerade>
+	    <Ungerade>Ulige</Ungerade>
+	    <EinmalEinsGr>Den store tabel</EinmalEinsGr>
+	    <Uebersprungen>Spring over</Uebersprungen>
+	    <UebungenThema>Øvelser efter emner</UebungenThema>
+	    <Uebersicht>Alle løste opgaver</Uebersicht>
+	    <Klasse1>1. Klasse</Klasse1>
+	    <Klasse2>2. Klasse</Klasse2>
+	    <Klasse3>3. Klasse</Klasse3>
+	    <Klasse4>4. Klasse</Klasse4>
+	    <Klasse5>5. Klasse</Klasse5>
+	    <Vorschule>Børnehaveklasse</Vorschule>
+	    <AddBis20>Addition op til 20</AddBis20>
+	    <AddBis100>Addition op til 100</AddBis100>
+	    <SubBis20>Subtraktion op til 20</SubBis20>
+	    <SubBis100>Subtraktion op til 100</SubBis100>
+	    <MulBis50>Multiplikation op til 50</MulBis50>
+	    <MulBis100>Multiplikation op til 100</MulBis100>
+	    <DivBis50>Division op til 50</DivBis50>
+	    <DisBis100>Division op til 100</DisBis100>
+	    <AufgabenBis50>Opgaver op til 50</AufgabenBis50>
+	    <AufgabenBis100>Opgaver op til 100</AufgabenBis100>
+	    <Verdoppeln>Fordobling</Verdoppeln>
+	    <ZehnerUebergang>Tierovergang</ZehnerUebergang>
+	    <SofortUeben>Målrettet træning straks</SofortUeben>
+	    <GeloesteAufgabenVon>Løste opgaver af</GeloesteAufgabenVon>
+	    <ErkannteTalente>Fundne talenter</ErkannteTalente>
+	    <ErkannteProbleme>Fundne problemer</ErkannteProbleme>
+
+	</item>
+
+	<item language="nl">
+
+		<Hallo>Hallo</Hallo>
+	    <FreiesRechnen>Vrij rekenen</FreiesRechnen>
+	    <Grundlagen>Basis</Grundlagen>
+	    <EinmalEins>Kleine tafel van vermenigvuldiging</EinmalEins>
+	    <DeineStatistik>Je statistiek</DeineStatistik>
+	    <Talente>Talenten</Talente>
+	    <Probleme>Problemen</Probleme>
+	    <Lernfortschritt>Leerprogressie</Lernfortschritt>
+	    <RichtigGeloesteAufgaben>Oplossingen/sessie</RichtigGeloesteAufgaben>
+	    <Erfolgsquote>Score</Erfolgsquote>
+	    <ZeitProAufgabe>Tijd/opgave</ZeitProAufgabe>
+	    <Spiefortschritt>Spelvooruitgang</Spiefortschritt>
+	    <GeloesteAufgaben>Opgeloste opgaven</GeloesteAufgaben>
+	    <Fehlerquote>Foutscore</Fehlerquote>
+	    <RichtigGeloest>Correct opgeloste opgaven</RichtigGeloest>
+	    <FalschBeantwortet>Fout beantwoord</FalschBeantwortet>
+	    <Gesamtspielzeit>Totale speeltijd</Gesamtspielzeit>
+	    <ZeitProAufgabe>Tijd per opgave</ZeitProAufgabe>
+	    <GesammelteMuenzen>Verzamelde munten</GesammelteMuenzen>
+	    <FreigeschalteteFiguren>Vrijgeschakelde figuren</FreigeschalteteFiguren>
+	    <Auswahl>Selectie</Auswahl>
+	    <Uebungen>Oefeningen</Uebungen>
+	    <Gerade>Recht</Gerade>
+	    <Ungerade>Onrecht</Ungerade>
+	    <EinmalEinsGr>Grote tafel van vermenigvuldiging</EinmalEinsGr>
+	    <Uebersprungen>Overgeslagen</Uebersprungen>
+	    <UebungenThema>Oefeningen op thema</UebungenThema>
+	    <Uebersicht>Alle opgeloste opgaven</Uebersicht>
+	    <Klasse1>1e klas</Klasse1>
+	    <Klasse2>2e klas</Klasse2>
+	    <Klasse3>3e klas</Klasse3>
+	    <Klasse4>4e klas</Klasse4>
+	    <Klasse5>5e klas</Klasse5>
+	    <Vorschule>Kleuterschool</Vorschule>
+	    <AddBis20>Optellen tot 20</AddBis20>
+	    <AddBis100>Optellen tot 100</AddBis100>
+	    <SubBis20>Aftrekken tot 20</SubBis20>
+	    <SubBis100>Aftrekken tot 100</SubBis100>
+	    <MulBis50>Vermenigvuldigen tot 50</MulBis50>
+	    <MulBis100>Vermenigvuldigen tot 100</MulBis100>
+	    <DivBis50>Delen tot 50</DivBis50>
+	    <DisBis100>Delen tot 100</DisBis100>
+	    <AufgabenBis50>Opgaven tot 50</AufgabenBis50>
+	    <AufgabenBis100>Opgaven tot 100</AufgabenBis100>
+	    <Verdoppeln>Verdubbelen</Verdoppeln>
+	    <ZehnerUebergang>Hoger dan tien</ZehnerUebergang>
+	    <SofortUeben>Onmiddellijk gericht oefenen</SofortUeben>
+	    <GeloesteAufgabenVon>Opgeloste opgaven van</GeloesteAufgabenVon>
+	    <ErkannteTalente>Herkende talenten</ErkannteTalente>
+	    <ErkannteProbleme>Herkende problemen</ErkannteProbleme>
+
+	</item>
+
+	<item language="fr">
+
+		<Hallo>Bonjour</Hallo>
+	    <FreiesRechnen>Calcul libre</FreiesRechnen>
+	    <Grundlagen>Principes</Grundlagen>
+	    <EinmalEins>Petite table de multiplication</EinmalEins>
+	    <DeineStatistik>Tes statistiques</DeineStatistik>
+	    <Talente>Forces</Talente>
+	    <Probleme>Faiblesses</Probleme>
+	    <Lernfortschritt>Progression de l’apprentissage</Lernfortschritt>
+	    <RichtigGeloesteAufgaben>Solutions/Séance</RichtigGeloesteAufgaben>
+	    <Erfolgsquote>Taux de réussite</Erfolgsquote>
+	    <ZeitProAufgabe>Temps/Problème</ZeitProAufgabe>
+	    <Spiefortschritt>Progression du jeu</Spiefortschritt>
+	    <GeloesteAufgaben>Problèmes de calcul résolus</GeloesteAufgaben>
+	    <Fehlerquote>Taux de défaillance</Fehlerquote>
+	    <RichtigGeloest>Problèmes de calcul correctement résolus</RichtigGeloest>
+	    <FalschBeantwortet>Mauvaise réponse</FalschBeantwortet>
+	    <Gesamtspielzeit>Temps de jeu total</Gesamtspielzeit>
+	    <ZeitProAufgabe>Temps par problème</ZeitProAufgabe>
+	    <GesammelteMuenzen>Pièces de monnaie collectées</GesammelteMuenzen>
+	    <FreigeschalteteFiguren>Personnages activés</FreigeschalteteFiguren>
+	    <Auswahl>Choix</Auswahl>
+	    <Uebungen>Exercices</Uebungen>
+	    <Gerade>Paire</Gerade>
+	    <Ungerade>Impaire</Ungerade>
+	    <EinmalEinsGr>Grande table de multiplication</EinmalEinsGr>
+	    <Uebersprungen>Sauter</Uebersprungen>
+	    <UebungenThema>Exercices par thème</UebungenThema>
+	    <Uebersicht>Tous les problèmes de calcul résolus</Uebersicht>
+	    <Klasse1>1ère classe</Klasse1>
+	    <Klasse2>2ème classe</Klasse2>
+	    <Klasse3>3ème classe</Klasse3>
+	    <Klasse4>4ème classe</Klasse4>
+	    <Klasse5>5ème classe</Klasse5>
+	    <Vorschule>Maternellel</Vorschule>
+	    <AddBis20>Addition jusqu’à 20</AddBis20>
+	    <AddBis100>Addition jusqu’à 100</AddBis100>
+	    <SubBis20>Soustraction jusqu’à 20</SubBis20>
+	    <SubBis100>Soustraction jusqu’à 100</SubBis100>
+	    <MulBis50>Multiplication jusqu’à 50</MulBis50>
+	    <MulBis100>Multiplication jusqu’à 100</MulBis100>
+	    <DivBis50>Division jusqu’à 50</DivBis50>
+	    <DisBis100>Division jusqu’à 100</DisBis100>
+	    <AufgabenBis50>Problèmes de calcul jusqu’à 50</AufgabenBis50>
+	    <AufgabenBis100>Problèmes de calcul jusqu’à 100</AufgabenBis100>
+	    <Verdoppeln>Dédoublement</Verdoppeln>
+	    <ZehnerUebergang>Transition des dizaines</ZehnerUebergang>
+	    <SofortUeben>S’entraîner immédiatement</SofortUeben>
+	    <GeloesteAufgabenVon>Problèmes de calcul résolus par</GeloesteAufgabenVon>
+	    <ErkannteTalente>Forces reconnues</ErkannteTalente>
+	    <ErkannteProbleme>Faiblesses détectées</ErkannteProbleme>
+
+	</item>
+
+	<item language="it">
+
+		<Hallo>Ciao</Hallo>
+	    <FreiesRechnen>Calcolo libero</FreiesRechnen>
+	    <Grundlagen>Principi</Grundlagen>
+	    <EinmalEins>Tavola pitagorica piccola</EinmalEins>
+	    <DeineStatistik>Le tue statistiche</DeineStatistik>
+	    <Talente>Predisposizioni</Talente>
+	    <Probleme>Problemi</Probleme>
+	    <Lernfortschritt>Progresso didattico</Lernfortschritt>
+	    <RichtigGeloesteAufgaben>Soluzioni/Sessione</RichtigGeloesteAufgaben>
+	    <Erfolgsquote>Tasso di successo</Erfolgsquote>
+	    <ZeitProAufgabe>Obiettivo/Compito</ZeitProAufgabe>
+	    <Spiefortschritt>Progresso di gioco</Spiefortschritt>
+	    <GeloesteAufgaben>Compiti svolti</GeloesteAufgaben>
+	    <Fehlerquote>Tasso di errore</Fehlerquote>
+	    <RichtigGeloest>Compiti svolti correttamente</RichtigGeloest>
+	    <FalschBeantwortet>Risposta sbagliata</FalschBeantwortet>
+	    <Gesamtspielzeit>Tempo di gioco complessivo</Gesamtspielzeit>
+	    <ZeitProAufgabe>Tempo per compito</ZeitProAufgabe>
+	    <GesammelteMuenzen>Monete raccolte</GesammelteMuenzen>
+	    <FreigeschalteteFiguren>Personaggi attivati</FreigeschalteteFiguren>
+	    <Auswahl>Selezione</Auswahl>
+	    <Uebungen>Esercizi</Uebungen>
+	    <Gerade>Pari</Gerade>
+	    <Ungerade>Dispari</Ungerade>
+	    <EinmalEinsGr>Tavola pitagorica grande</EinmalEinsGr>
+	    <Uebersprungen>Saltati</Uebersprungen>
+	    <UebungenThema>Esercizi per tema</UebungenThema>
+	    <Uebersicht>Tutti i compiti risolti</Uebersicht>
+	    <Klasse1>1° anno</Klasse1>
+	    <Klasse2>2° anno</Klasse2>
+	    <Klasse3>3° anno</Klasse3>
+	    <Klasse4>4° anno</Klasse4>
+	    <Klasse5>5° anno</Klasse5>
+	    <Vorschule>Scuola materna</Vorschule>
+	    <AddBis20>Addizione fino a 20</AddBis20>
+	    <AddBis100>Addizione fino a 100</AddBis100>
+	    <SubBis20>Sottrazione fino a 20</SubBis20>
+	    <SubBis100>Sottrazione fino a 100</SubBis100>
+	    <MulBis50>Moltiplicazione fino a 50</MulBis50>
+	    <MulBis100>Moltiplicazione fino a 100</MulBis100>
+	    <DivBis50>Divisione fino a 50</DivBis50>
+	    <DisBis100>Divisione fino a 100</DisBis100>
+	    <AufgabenBis50>Compiti fino a 50</AufgabenBis50>
+	    <AufgabenBis100>Compiti fino a 100</AufgabenBis100>
+	    <Verdoppeln>Raddoppiare</Verdoppeln>
+	    <ZehnerUebergang>Superamento della decina</ZehnerUebergang>
+	    <SofortUeben>Esercitare subito in modo mirato</SofortUeben>
+	    <GeloesteAufgabenVon>Quesiti risolti di</GeloesteAufgabenVon>
+	    <ErkannteTalente>Predisposizioni rilevate</ErkannteTalente>
+	    <ErkannteProbleme>Problemi rilevati</ErkannteProbleme>
+
+	</item>
+
+	<item language="ja">
+
+		<Hallo>Hallo</Hallo>
+	    <FreiesRechnen>自由な計算</FreiesRechnen>
+	    <Grundlagen>基本</Grundlagen>
+	    <EinmalEins>小さな九九</EinmalEins>
+	    <DeineStatistik>きみの成績</DeineStatistik>
+	    <Talente>得意</Talente>
+	    <Probleme>苦手</Probleme>
+	    <Lernfortschritt>まなびの進歩</Lernfortschritt>
+	    <RichtigGeloesteAufgaben>正解/不正解</RichtigGeloesteAufgaben>
+	    <Erfolgsquote>正答率</Erfolgsquote>
+	    <ZeitProAufgabe>時間/問題数</ZeitProAufgabe>
+	    <Spiefortschritt>ゲームの進歩</Spiefortschritt>
+	    <GeloesteAufgaben>解いた問題</GeloesteAufgaben>
+	    <Fehlerquote>正答率</Fehlerquote>
+	    <RichtigGeloest>正解した問題</RichtigGeloest>
+	    <FalschBeantwortet>間違えた問題</FalschBeantwortet>
+	    <Gesamtspielzeit>かかった時間の合計</Gesamtspielzeit>
+	    <ZeitProAufgabe>問題ごとの時間</ZeitProAufgabe>
+	    <GesammelteMuenzen>集めたコイン</GesammelteMuenzen>
+	    <FreigeschalteteFiguren>ロックを解除したキャラクター</FreigeschalteteFiguren>
+	    <Auswahl>選択</Auswahl>
+	    <Uebungen>練習</Uebungen>
+	    <Gerade>偶数</Gerade>
+	    <Ungerade>奇数</Ungerade>
+	    <EinmalEinsGr>大きな九九</EinmalEinsGr>
+	    <Uebersprungen>飛ばす</Uebersprungen>
+	    <UebungenThema>テーマごとの練習</UebungenThema>
+	    <Uebersicht>全ての解いた問題</Uebersicht>
+	    <Klasse1>1年生</Klasse1>
+	    <Klasse2>2年生</Klasse2>
+	    <Klasse3>3年生</Klasse3>
+	    <Klasse4>4年生</Klasse4>
+	    <Klasse5>5年生</Klasse5>
+	    <Vorschule>幼稚園</Vorschule>
+	    <AddBis20>20までの足し算</AddBis20>
+	    <AddBis100>100までの足し算</AddBis100>
+	    <SubBis20>20までの掛け算</SubBis20>
+	    <SubBis100>100までの掛け算</SubBis100>
+	    <MulBis50>50までの引き算</MulBis50>
+	    <MulBis100>100までの引き算</MulBis100>
+	    <DivBis50>50までの割り算</DivBis50>
+	    <DisBis100>100までの割り算</DisBis100>
+	    <AufgabenBis50>50までの課題</AufgabenBis50>
+	    <AufgabenBis100>100までの課題</AufgabenBis100>
+	    <Verdoppeln>倍にする</Verdoppeln>
+	    <ZehnerUebergang>繰り上がり</ZehnerUebergang>
+	    <SofortUeben>すぐにぴったりな練習問題に取り掛かる</SofortUeben>
+	    <GeloesteAufgabenVon>解いた問題</GeloesteAufgabenVon>
+	    <ErkannteTalente>得意</ErkannteTalente>
+	    <ErkannteProbleme>苦手</ErkannteProbleme>
+
+	</item>
+
+	<item language="ko">
+
+		<Hallo>안녕</Hallo>
+	    <FreiesRechnen>자유롭게 계산해봐요</FreiesRechnen>
+	    <Grundlagen>기초</Grundlagen>
+	    <EinmalEins>작은단위 구구단</EinmalEins>
+	    <DeineStatistik>여러분의 통계</DeineStatistik>
+	    <Talente>재능</Talente>
+	    <Probleme>문제</Probleme>
+	    <Lernfortschritt>학습향상</Lernfortschritt>
+	    <RichtigGeloesteAufgaben>푼 문제/등수</RichtigGeloesteAufgaben>
+	    <Erfolgsquote>맞은 점수</Erfolgsquote>
+	    <ZeitProAufgabe>소요시간/문제</ZeitProAufgabe>
+	    <Spiefortschritt>게임향상</Spiefortschritt>
+	    <GeloesteAufgaben>푼 문제</GeloesteAufgaben>
+	    <Fehlerquote>틀린 점수</Fehlerquote>
+	    <RichtigGeloest>맞게 푼 문제</RichtigGeloest>
+	    <FalschBeantwortet>오답 수</FalschBeantwortet>
+	    <Gesamtspielzeit>전체 게임소요시간</Gesamtspielzeit>
+	    <ZeitProAufgabe>문제당 소요시간</ZeitProAufgabe>
+	    <GesammelteMuenzen>모은 동전</GesammelteMuenzen>
+	    <FreigeschalteteFiguren>열린 케릭터</FreigeschalteteFiguren>
+	    <Auswahl>선택</Auswahl>
+	    <Uebungen>연습</Uebungen>
+	    <Gerade>짝수</Gerade>
+	    <Ungerade>홀수</Ungerade>
+	    <EinmalEinsGr>모든 단위 곱셈계산</EinmalEinsGr>
+	    <Uebersprungen>뛰어넘기</Uebersprungen>
+	    <UebungenThema>해당 수학주제 연습</UebungenThema>
+	    <Uebersicht>답한 모든 문제</Uebersicht>
+	    <Klasse1>1. 학년</Klasse1>
+	    <Klasse2>2. 학년</Klasse2>
+	    <Klasse3>3. 학년</Klasse3>
+	    <Klasse4>4. 학년</Klasse4>
+	    <Klasse5>5. 학년</Klasse5>
+	    <Vorschule>유치원</Vorschule>
+	    <AddBis20>20까지 덧셈</AddBis20>
+	    <AddBis100>100까지 덧셈</AddBis100>
+	    <SubBis20>20까지 뺄셈</SubBis20>
+	    <SubBis100>100까지 뺄셈</SubBis100>
+	    <MulBis50>50까지 곱셈</MulBis50>
+	    <MulBis100>100까지 곱셈</MulBis100>
+	    <DivBis50>50까지 나눗셈</DivBis50>
+	    <DisBis100>100까지 나눗셈</DisBis100>
+	    <AufgabenBis50>50까지 문제</AufgabenBis50>
+	    <AufgabenBis100>100까지 문제</AufgabenBis100>
+	    <Verdoppeln>두 배로</Verdoppeln>
+	    <ZehnerUebergang>10이상 덧셈</ZehnerUebergang>
+	    <SofortUeben>목표 바로 연습하기</SofortUeben>
+	    <GeloesteAufgabenVon>푼 문제</GeloesteAufgabenVon>
+	    <ErkannteTalente>인지된 재능</ErkannteTalente>
+	    <ErkannteProbleme>인지된 문제</ErkannteProbleme>
+
+	</item>
+
+
+
+	<item language="pt">
+
+		<Hallo>Olá</Hallo>
+	    <FreiesRechnen>Fazer contas de forma livre</FreiesRechnen>
+	    <Grundlagen>Bases</Grundlagen>
+	    <EinmalEins>Tabuada pequena</EinmalEins>
+	    <DeineStatistik>A tua estatística</DeineStatistik>
+	    <Talente>Talentos</Talente>
+	    <Probleme>Problemas</Probleme>
+	    <Lernfortschritt>Progressos na aprendizagem</Lernfortschritt>
+	    <RichtigGeloesteAufgaben>Soluções/sessão</RichtigGeloesteAufgaben>
+	    <Erfolgsquote>Taxa de sucesso</Erfolgsquote>
+	    <ZeitProAufgabe>Tempo/exercício</ZeitProAufgabe>
+	    <Spiefortschritt>Progresso no jogo</Spiefortschritt>
+	    <GeloesteAufgaben>Exercícios resolvidos</GeloesteAufgaben>
+	    <Fehlerquote>Taxa de erro</Fehlerquote>
+	    <RichtigGeloest>Exercícios resolvidos corretamente</RichtigGeloest>
+	    <FalschBeantwortet>Resposta errada</FalschBeantwortet>
+	    <Gesamtspielzeit>Tempo de jogo total</Gesamtspielzeit>
+	    <ZeitProAufgabe>Tempo por exercício</ZeitProAufgabe>
+	    <GesammelteMuenzen>Moedas ganhas</GesammelteMuenzen>
+	    <FreigeschalteteFiguren>Figuras desbloqueadas</FreigeschalteteFiguren>
+	    <Auswahl>Escolha</Auswahl>
+	    <Uebungen>Exercícios</Uebungen>
+	    <Gerade>Pares</Gerade>
+	    <Ungerade>Ímpares</Ungerade>
+	    <EinmalEinsGr>Tabuada grande</EinmalEinsGr>
+	    <Uebersprungen>Saltou exercício</Uebersprungen>
+	    <UebungenThema>Exercícios por tema</UebungenThema>
+	    <Uebersicht>Todos os exercícios resolvidos</Uebersicht>
+	    <Klasse1>1ª Classe</Klasse1>
+	    <Klasse2>2ª Classe</Klasse2>
+	    <Klasse3>3ª Classe</Klasse3>
+	    <Klasse4>4ª Classe</Klasse4>
+	    <Klasse5>5ª Classe</Klasse5>
+	    <Vorschule>Pré-primária</Vorschule>
+	    <AddBis20>Adição até 20</AddBis20>
+	    <AddBis100>Adição até 100</AddBis100>
+	    <SubBis20>Subtração até 20</SubBis20>
+	    <SubBis100>Subtração até 100</SubBis100>
+	    <MulBis50>Multiplicação até 50</MulBis50>
+	    <MulBis100>Multiplicação até 100</MulBis100>
+	    <DivBis50>Divisão até 50</DivBis50>
+	    <DisBis100>Divisão até 100</DisBis100>
+	    <AufgabenBis50>Exercícios até 50</AufgabenBis50>
+	    <AufgabenBis100>Exercícios até 100</AufgabenBis100>
+	    <Verdoppeln>Duplicar</Verdoppeln>
+	    <ZehnerUebergang>Adição com transporte</ZehnerUebergang>
+	    <SofortUeben>Aprender já de forma orientada</SofortUeben>
+	    <GeloesteAufgabenVon>Exercícios resolvidos de</GeloesteAufgabenVon>
+	    <ErkannteTalente>Talentos detetados</ErkannteTalente>
+	    <ErkannteProbleme>Problemas detetados</ErkannteProbleme>
+
+	</item>
+
+	<item language="ru">
+
+		<Hallo>Привет</Hallo>
+	    <FreiesRechnen>Свободный счет</FreiesRechnen>
+	    <Grundlagen>Основы</Grundlagen>
+	    <EinmalEins>Маленькая таблица умножения</EinmalEins>
+	    <DeineStatistik>Твоя статистика</DeineStatistik>
+	    <Talente>Способности</Talente>
+	    <Probleme>Проблемы</Probleme>
+	    <Lernfortschritt>Прогресс в обучении</Lernfortschritt>
+	    <RichtigGeloesteAufgaben>Решений за сеанс</RichtigGeloesteAufgaben>
+	    <Erfolgsquote>Результативность</Erfolgsquote>
+	    <ZeitProAufgabe>Время на задание</ZeitProAufgabe>
+	    <Spiefortschritt>Прогресс в игре</Spiefortschritt>
+	    <GeloesteAufgaben>Выполненные задания</GeloesteAufgaben>
+	    <Fehlerquote>Процент ошибок</Fehlerquote>
+	    <RichtigGeloest>Правильно выполненные задания</RichtigGeloest>
+	    <FalschBeantwortet>Неправильные ответы</FalschBeantwortet>
+	    <Gesamtspielzeit>Общее время игры</Gesamtspielzeit>
+	    <ZeitProAufgabe>Время на выполнение задания</ZeitProAufgabe>
+	    <GesammelteMuenzen>Накопленные монеты</GesammelteMuenzen>
+	    <FreigeschalteteFiguren>Активированные фигуры</FreigeschalteteFiguren>
+	    <Auswahl>Выбор</Auswahl>
+	    <Uebungen>Упражнения</Uebungen>
+	    <Gerade>Четные</Gerade>
+	    <Ungerade>Нечетные</Ungerade>
+	    <EinmalEinsGr>Большая таблица умножения</EinmalEinsGr>
+	    <Uebersprungen>Пропущено</Uebersprungen>
+	    <UebungenThema>Упражнения по теме</UebungenThema>
+	    <Uebersicht>Все выполненные задания</Uebersicht>
+	    <Klasse1>1 класс</Klasse1>
+	    <Klasse2>2 класс</Klasse2>
+	    <Klasse3>3 класс</Klasse3>
+	    <Klasse4>4 класс</Klasse4>
+	    <Klasse5>5 класс</Klasse5>
+	    <Vorschule>Дошкольники</Vorschule>
+	    <AddBis20>Сложение до 20</AddBis20>
+	    <AddBis100>Сложение до 100</AddBis100>
+	    <SubBis20>Вычитание до 20</SubBis20>
+	    <SubBis100>Вычитание до 100</SubBis100>
+	    <MulBis50>Умножение до 50</MulBis50>
+	    <MulBis100>Умножение до 100</MulBis100>
+	    <DivBis50>Деление до 50</DivBis50>
+	    <DisBis100>Деление до 100</DisBis100>
+	    <AufgabenBis50>Задания до 50</AufgabenBis50>
+	    <AufgabenBis100>Задания до 100</AufgabenBis100>
+	    <Verdoppeln>Удвоение</Verdoppeln>
+	    <ZehnerUebergang>Переход через десяток</ZehnerUebergang>
+	    <SofortUeben>Целенаправленное обучение прямо сейчас</SofortUeben>
+	    <GeloesteAufgabenVon>Выполненные задания –</GeloesteAufgabenVon>
+	    <ErkannteTalente>Выявленные способности</ErkannteTalente>
+	    <ErkannteProbleme>Выявленные проблемы</ErkannteProbleme>
+
+	</item>
+
+	<item language="es">
+
+		<Hallo>Hola</Hallo>
+	    <FreiesRechnen>Calcular libremente</FreiesRechnen>
+	    <Grundlagen>Fundamentos</Grundlagen>
+	    <EinmalEins>Tabla de multiplicar pequeña</EinmalEins>
+	    <DeineStatistik>Tu estadística</DeineStatistik>
+	    <Talente>Aptitudes</Talente>
+	    <Probleme>Problemas</Probleme>
+	    <Lernfortschritt>Progreso en el aprendizaje</Lernfortschritt>
+	    <RichtigGeloesteAufgaben>Soluciones/sesión</RichtigGeloesteAufgaben>
+	    <Erfolgsquote>Cuota de éxito</Erfolgsquote>
+	    <ZeitProAufgabe>Tiempo/ejercicio</ZeitProAufgabe>
+	    <Spiefortschritt>Avance en el juego</Spiefortschritt>
+	    <GeloesteAufgaben>Ejercicios solucionados</GeloesteAufgaben>
+	    <Fehlerquote>Cuota de errores</Fehlerquote>
+	    <RichtigGeloest>Ejercicios solucionados correctamente</RichtigGeloest>
+	    <FalschBeantwortet>Respondido incorrectamente</FalschBeantwortet>
+	    <Gesamtspielzeit>Duración total de juego</Gesamtspielzeit>
+	    <ZeitProAufgabe>Tiempo por ejercicio</ZeitProAufgabe>
+	    <GesammelteMuenzen>Monedas recogidas</GesammelteMuenzen>
+	    <FreigeschalteteFiguren>Personajes activados</FreigeschalteteFiguren>
+	    <Auswahl>Selección</Auswahl>
+	    <Uebungen>Ejercicios</Uebungen>
+	    <Gerade>Par</Gerade>
+	    <Ungerade>Impar</Ungerade>
+	    <EinmalEinsGr>Tablas de multiplicar del 1 al 20</EinmalEinsGr>
+	    <Uebersprungen>Omitidos</Uebersprungen>
+	    <UebungenThema>Ejercicios por temas</UebungenThema>
+	    <Uebersicht>Todos los ejercicios resueltos</Uebersicht>
+	    <Klasse1>1.º Primaria</Klasse1>
+	    <Klasse2>2.º Primaria</Klasse2>
+	    <Klasse3>3.º Primaria</Klasse3>
+	    <Klasse4>4.º Primaria</Klasse4>
+	    <Klasse5>5.º Primaria</Klasse5>
+	    <Vorschule>Infantil</Vorschule>
+	    <AddBis20>Suma hasta 20</AddBis20>
+	    <AddBis100>Suma hasta 100</AddBis100>
+	    <SubBis20>Resta hasta 20</SubBis20>
+	    <SubBis100>Resta hasta 100</SubBis100>
+	    <MulBis50>Multiplicación hasta 50</MulBis50>
+	    <MulBis100>Multiplicación hasta 100</MulBis100>
+	    <DivBis50>División hasta 50</DivBis50>
+	    <DisBis100>División hasta 100</DisBis100>
+	    <AufgabenBis50>Ejercicios hasta 50</AufgabenBis50>
+	    <AufgabenBis100>Ejercicios hasta 100</AufgabenBis100>
+	    <Verdoppeln>Duplicar</Verdoppeln>
+	    <ZehnerUebergang>Contar con decenas</ZehnerUebergang>
+	    <SofortUeben>Practicar ya selectivamente</SofortUeben>
+	    <GeloesteAufgabenVon>Ejercicios resueltos de</GeloesteAufgabenVon>
+	    <ErkannteTalente>Aptitudes detectadas</ErkannteTalente>
+	    <ErkannteProbleme>Problemas detectados</ErkannteProbleme>
+
+	</item>
+
+	<item language="sv">
+
+		<Hallo>Hallå</Hallo>
+	    <FreiesRechnen>Räkna fritt</FreiesRechnen>
+	    <Grundlagen>Underlag</Grundlagen>
+	    <EinmalEins>Liten multiplikationstabell</EinmalEins>
+	    <DeineStatistik>Din statistik</DeineStatistik>
+	    <Talente>Styrkor</Talente>
+	    <Probleme>Svagheter</Probleme>
+	    <Lernfortschritt>Framsteg</Lernfortschritt>
+	    <RichtigGeloesteAufgaben>Lösningar/tillfälle</RichtigGeloesteAufgaben>
+	    <Erfolgsquote>Antal poäng</Erfolgsquote>
+	    <ZeitProAufgabe>Tid/uppgift</ZeitProAufgabe>
+	    <Spiefortschritt>Spelframsteg</Spiefortschritt>
+	    <GeloesteAufgaben>Lösta uppgifter</GeloesteAufgaben>
+	    <Fehlerquote>Antal fel</Fehlerquote>
+	    <RichtigGeloest>Rätt lösta uppgifter</RichtigGeloest>
+	    <FalschBeantwortet>Fel svar</FalschBeantwortet>
+	    <Gesamtspielzeit>Sammanlagd speltid</Gesamtspielzeit>
+	    <ZeitProAufgabe>Tid per uppgift</ZeitProAufgabe>
+	    <GesammelteMuenzen>Antal insamlade mynt</GesammelteMuenzen>
+	    <FreigeschalteteFiguren>Aktiverade figurer</FreigeschalteteFiguren>
+	    <Auswahl>Urval</Auswahl>
+	    <Uebungen>Övningar</Uebungen>
+	    <Gerade>Jämna</Gerade>
+	    <Ungerade>Ojämna</Ungerade>
+	    <EinmalEinsGr>Stor multiplikationstabell</EinmalEinsGr>
+	    <Uebersprungen>Överhoppad</Uebersprungen>
+	    <UebungenThema>Tematiska övningar</UebungenThema>
+	    <Uebersicht>Samtliga lösta uppgifter</Uebersicht>
+	    <Klasse1>1:a klass</Klasse1>
+	    <Klasse2>2:a klass</Klasse2>
+	    <Klasse3>3:e klass</Klasse3>
+	    <Klasse4>4:e klass</Klasse4>
+	    <Klasse5>5:e klass</Klasse5>
+	    <Vorschule>Förskola</Vorschule>
+	    <AddBis20>Addition upp till 20</AddBis20>
+	    <AddBis100>Addition upp till 100</AddBis100>
+	    <SubBis20>Subtraktion upp till 20</SubBis20>
+	    <SubBis100>Subtraktion upp till 100</SubBis100>
+	    <MulBis50>Multiplikation upp till 50</MulBis50>
+	    <MulBis100>Multiplikation upp till 100</MulBis100>
+	    <DivBis50>Division upp till 50</DivBis50>
+	    <DisBis100>Division upp till 100</DisBis100>
+	    <AufgabenBis50>Uppgifter upp till 50</AufgabenBis50>
+	    <AufgabenBis100>Uppgifter upp till 100</AufgabenBis100>
+	    <Verdoppeln>Fördubbla</Verdoppeln>
+	    <ZehnerUebergang>Tiotalsövergång</ZehnerUebergang>
+	    <SofortUeben>Öva målinriktat direkt</SofortUeben>
+	    <GeloesteAufgabenVon>Lösta uppgifter av</GeloesteAufgabenVon>
+	    <ErkannteTalente>Funna styrkor</ErkannteTalente>
+	    <ErkannteProbleme>Funna svagheter</ErkannteProbleme>
+
+	</item>
+
+	<item language="th">
+
+		<Hallo>สวัสดี</Hallo>
+	    <FreiesRechnen>คิดเลขในใจ</FreiesRechnen>
+	    <Grundlagen>พื้นฐานสูตรคูณฉบับย่อ</Grundlagen>
+	    <EinmalEins>สูตรคูณฉบับย่อ</EinmalEins>
+	    <DeineStatistik>สถิติของคุณ</DeineStatistik>
+	    <Talente>ทักษะความสามารถ</Talente>
+	    <Probleme>ปัญหา</Probleme>
+	    <Lernfortschritt>พัฒนาการในการเรียนรู้</Lernfortschritt>
+	    <RichtigGeloesteAufgaben>เฉลย/ครั้ง</RichtigGeloesteAufgaben>
+	    <Erfolgsquote>อัตราความสำเร็จ</Erfolgsquote>
+	    <ZeitProAufgabe>เวลางาน/โจทย์</ZeitProAufgabe>
+	    <Spiefortschritt>ความคืบหน้าเกมส์</Spiefortschritt>
+	    <GeloesteAufgaben>โจทย์ที่แก้ได้</GeloesteAufgaben>
+	    <Fehlerquote>โควต้าคำตอบที่ไม่ถูกต้อง</Fehlerquote>
+	    <RichtigGeloest>โจทย์ที่แก้ได้อย่างถูกต้อง</RichtigGeloest>
+	    <FalschBeantwortet>คำตอบที่ไม่ถูกต้อง</FalschBeantwortet>
+	    <Gesamtspielzeit>เวลาเล่นรวม</Gesamtspielzeit>
+	    <ZeitProAufgabe>ระยะเวลาต่อโจทย์</ZeitProAufgabe>
+	    <GesammelteMuenzen>เหรียญสะสม</GesammelteMuenzen>
+	    <FreigeschalteteFiguren>ตัวการ์ตูนที่ดาวน์โหลด</FreigeschalteteFiguren>
+	    <Auswahl>ตัวเลือก</Auswahl>
+	    <Uebungen>แบบทดสอบ</Uebungen>
+	    <Gerade>คู่</Gerade>
+	    <Ungerade>คี่</Ungerade>
+	    <EinmalEinsGr>สูตรคูณฉบับเต็ม</EinmalEinsGr>
+	    <Uebersprungen>ข้าม</Uebersprungen>
+	    <UebungenThema>แบบทดสอบตามหัวข้อ</UebungenThema>
+	    <Uebersicht>โจทย์ที่แก้ได้ทั้งหมด</Uebersicht>
+	    <Klasse1>1. ชั้นเรียน</Klasse1>
+	    <Klasse2>2. ชั้นเรียน</Klasse2>
+	    <Klasse3>3. ชั้นเรียน</Klasse3>
+	    <Klasse4>4. ชั้นเรียน</Klasse4>
+	    <Klasse5>5. ชั้นเรียน</Klasse5>
+	    <Vorschule>อนุบาล</Vorschule>
+	    <AddBis20>การบวกถึง 20</AddBis20>
+	    <AddBis100>การบวกถึง 100</AddBis100>
+	    <SubBis20>การลบถึง 20</SubBis20>
+	    <SubBis100>การลบถึง 100</SubBis100>
+	    <MulBis50>การคูณถึง 50</MulBis50>
+	    <MulBis100>การคูณถึง 100</MulBis100>
+	    <DivBis50>การหารถึง 50</DivBis50>
+	    <DisBis100>การหารถึง 100</DisBis100>
+	    <AufgabenBis50>โจทย์ที่มีจำนวนถึง 50</AufgabenBis50>
+	    <AufgabenBis100>โจทย์ที่มีจำนวนถึง 100</AufgabenBis100>
+	    <Verdoppeln>สองเท่า</Verdoppeln>
+	    <ZehnerUebergang>จำนวนเกินสิบ</ZehnerUebergang>
+	    <SofortUeben>ฝึกฝนตรงเป้าหมาย</SofortUeben>
+	    <GeloesteAufgabenVon>โจทย์ที่แก้ได้โดย</GeloesteAufgabenVon>
+	    <ErkannteTalente>ทักษะความสามารถที่พบ</ErkannteTalente>
+	    <ErkannteProbleme>ปัญหาที่พบ</ErkannteProbleme>
+
+	</item>
+
+	<item language="tr">
+
+		<Hallo>Merhaba</Hallo>
+	    <FreiesRechnen>Serbest hesaplama</FreiesRechnen>
+	    <Grundlagen>Temeller</Grundlagen>
+	    <EinmalEins>Küçük çarpım tablosu</EinmalEins>
+	    <DeineStatistik>İstatistiğin</DeineStatistik>
+	    <Talente>Yeteneklerin</Talente>
+	    <Probleme>Sorunların</Probleme>
+	    <Lernfortschritt>Öğrenim ilerlemesi</Lernfortschritt>
+	    <RichtigGeloesteAufgaben>Çözüm/Oturum</RichtigGeloesteAufgaben>
+	    <Erfolgsquote>Başarı oranı</Erfolgsquote>
+	    <ZeitProAufgabe>Süre/Problem</ZeitProAufgabe>
+	    <Spiefortschritt>Oyun ilerlemesi</Spiefortschritt>
+	    <GeloesteAufgaben>Çözülen problemler</GeloesteAufgaben>
+	    <Fehlerquote>Yanlışların oranı</Fehlerquote>
+	    <RichtigGeloest>Doğru çözülen problemler</RichtigGeloest>
+	    <FalschBeantwortet>Yanlış cevaplandı</FalschBeantwortet>
+	    <Gesamtspielzeit>Toplam oyun süresi</Gesamtspielzeit>
+	    <ZeitProAufgabe>Problem başına süre</ZeitProAufgabe>
+	    <GesammelteMuenzen>Toplanan madeni paralar</GesammelteMuenzen>
+	    <FreigeschalteteFiguren>Kilidi açılan karakterler</FreigeschalteteFiguren>
+	    <Auswahl>Seçim</Auswahl>
+	    <Uebungen>Alıştırmalar</Uebungen>
+	    <Gerade>Çiftli</Gerade>
+	    <Ungerade>Tekli</Ungerade>
+	    <EinmalEinsGr>Büyük çarpım tablosu</EinmalEinsGr>
+	    <Uebersprungen>Atlandı</Uebersprungen>
+	    <UebungenThema>Konuya göre alıştırma</UebungenThema>
+	    <Uebersicht>Çözülen tüm problemler</Uebersicht>
+	    <Klasse1>1. Sınıf</Klasse1>
+	    <Klasse2>2. Sınıf</Klasse2>
+	    <Klasse3>3. Sınıf</Klasse3>
+	    <Klasse4>4. Sınıf</Klasse4>
+	    <Klasse5>5. Sınıf</Klasse5>
+	    <Vorschule>Anaokulu</Vorschule>
+	    <AddBis20>20’ye kadar toplama</AddBis20>
+	    <AddBis100>100’e kadar toplama</AddBis100>
+	    <SubBis20>20’ye kadar çıkarma</SubBis20>
+	    <SubBis100>100’e kadar çıkarma</SubBis100>
+	    <MulBis50>50’ye kadar çarpma</MulBis50>
+	    <MulBis100>100’e kadar çarpma</MulBis100>
+	    <DivBis50>50’ye kadar bölme</DivBis50>
+	    <DisBis100>100’e kadar bölme</DisBis100>
+	    <AufgabenBis50>50’ye kadar problemler</AufgabenBis50>
+	    <AufgabenBis100>100’e kadar problemler</AufgabenBis100>
+	    <Verdoppeln>İkiye katlama</Verdoppeln>
+	    <ZehnerUebergang>Onlu geçiş</ZehnerUebergang>
+	    <SofortUeben>Hemen doğrudan öğren</SofortUeben>
+	    <GeloesteAufgabenVon>Toplam ... problemden çözülenler</GeloesteAufgabenVon>
+	    <ErkannteTalente>Tespit edilen yetenekler</ErkannteTalente>
+	    <ErkannteProbleme>Tespit edilen sorunlar</ErkannteProbleme>
+
+	</item>
+
+
+</data>

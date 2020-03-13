@@ -1,0 +1,160 @@
+
+fiete_big.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fiete_Logo_01
+  rotate: false
+  xy: 551, 2
+  size: 149, 50
+  orig: 149, 50
+  offset: 0, 0
+  index: -1
+Fiete_Logo_02
+  rotate: true
+  xy: 1725, 103
+  size: 150, 130
+  orig: 150, 130
+  offset: 0, 0
+  index: -1
+Fiete_Logo_03
+  rotate: true
+  xy: 1437, 103
+  size: 150, 142
+  orig: 150, 142
+  offset: 0, 0
+  index: -1
+Fiete_Logo_04
+  rotate: true
+  xy: 1581, 103
+  size: 150, 142
+  orig: 150, 142
+  offset: 0, 0
+  index: -1
+Fiete_Logo_05
+  rotate: true
+  xy: 1293, 64
+  size: 189, 142
+  orig: 189, 142
+  offset: 0, 0
+  index: -1
+Fiete_Logo_06
+  rotate: false
+  xy: 871, 108
+  size: 240, 145
+  orig: 240, 145
+  offset: 0, 0
+  index: -1
+Fiete_Logo_07
+  rotate: false
+  xy: 229, 108
+  size: 319, 145
+  orig: 319, 145
+  offset: 0, 0
+  index: -1
+Fiete_Logo_08
+  rotate: false
+  xy: 550, 108
+  size: 319, 145
+  orig: 319, 145
+  offset: 0, 0
+  index: -1
+arm_links
+  rotate: false
+  xy: 702, 53
+  size: 241, 53
+  orig: 241, 53
+  offset: 0, 0
+  index: -1
+arm_rechts
+  rotate: false
+  xy: 449, 54
+  size: 248, 52
+  orig: 248, 52
+  offset: 0, 0
+  index: -1
+cap
+  rotate: false
+  xy: 229, 40
+  size: 218, 66
+  orig: 218, 66
+  offset: 0, 0
+  index: -1
+eyes_closed
+  rotate: false
+  xy: 370, 9
+  size: 119, 9
+  orig: 119, 9
+  offset: 0, 0
+  index: -1
+eyes_opend
+  rotate: false
+  xy: 370, 20
+  size: 102, 18
+  orig: 102, 18
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1113, 15
+  size: 238, 178
+  orig: 238, 178
+  offset: 0, 0
+  index: -1
+hand_links
+  rotate: true
+  xy: 945, 23
+  size: 83, 81
+  orig: 83, 81
+  offset: 0, 0
+  index: -1
+hand_rechts
+  rotate: false
+  xy: 1028, 27
+  size: 78, 79
+  orig: 78, 79
+  offset: 0, 0
+  index: -1
+mouth_00
+  rotate: false
+  xy: 474, 30
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+mouth_01
+  rotate: false
+  xy: 449, 40
+  size: 43, 12
+  orig: 43, 12
+  offset: 0, 0
+  index: -1
+mouth_02
+  rotate: false
+  xy: 491, 7
+  size: 58, 21
+  orig: 58, 21
+  offset: 0, 0
+  index: -1
+mouth_04
+  rotate: false
+  xy: 229, 7
+  size: 73, 31
+  orig: 73, 31
+  offset: 0, 0
+  index: -1
+mouth_05
+  rotate: false
+  xy: 304, 8
+  size: 64, 30
+  orig: 64, 30
+  offset: 0, 0
+  index: -1
+pullover
+  rotate: false
+  xy: 2, 2
+  size: 225, 251
+  orig: 225, 251
+  offset: 0, 0
+  index: -1

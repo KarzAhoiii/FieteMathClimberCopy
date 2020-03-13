@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GameDataController
+  - MenuController
+  - PinholeCamera
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Buttons
+  - Overlay
+  - LoadingScreen
+  - Stairs
+  - Character
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Item
+    uniqueID: 3174269293
+    locked: 0
+  - name: Player
+    uniqueID: 2585228825
+    locked: 0
+  - name: SelectionScreen
+    uniqueID: 2448753639
+    locked: 0
+  - name: FreestyleSettings
+    uniqueID: 2514207403
+    locked: 0
+  - name: OneTimesOneSettings
+    uniqueID: 3833507219
+    locked: 0
+  - name: InAppPurchase
+    uniqueID: 3126558615
+    locked: 0
+  - name: SwipeCards
+    uniqueID: 3976224253
+    locked: 0

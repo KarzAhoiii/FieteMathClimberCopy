@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62c56c0130ba1483d97d3bfe67d4dfbe, type: 3}
+  m_Name: FiremanCharacterProfile
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1211084436961088, guid: 24a1cc045585f42f08c0b3bd6b3acf47, type: 2}
+  portrait: {fileID: 1642112522119310, guid: 03e94515443564457915bedf86a266d5, type: 2}
+  particle: {fileID: 0}
+  primary: {r: 0.802, g: 0.13366663, b: 0.20953147, a: 1}
+  secondary: {r: 0.9686275, g: 0.16470589, b: 0.25490198, a: 1}
+  buttonColor: {r: 0.96862745, g: 0.16470589, b: 0.25490198, a: 1}
+  textcol: {r: 1, g: 1, b: 1, a: 1}
+  priceOverride: 7000
+  isPurchased: 1
+  isLocked: 0
+  id: 12
+  rewardBonus: 2
+  jumpSound: {fileID: 8300000, guid: c6e8b11ee8d1a4aafb0b8cb5c3c2f6e1, type: 3}
+  jumpVoice: {fileID: 0}
+  fallVoice: {fileID: 8300000, guid: 2f712286af14c498e831353c81d2c761, type: 3}
+  landSound: {fileID: 8300000, guid: 58e55e64878194b6b8b447dce1064066, type: 3}
+  specialVoice: {fileID: 8300000, guid: 14ee02a5f319d4510b40ad3b91c102a9, type: 3}
+  tapVoice: {fileID: 8300000, guid: d51e0658fd9174a2e999ab03395e36ed, type: 3}

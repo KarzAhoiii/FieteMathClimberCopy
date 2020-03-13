@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62c56c0130ba1483d97d3bfe67d4dfbe, type: 3}
+  m_Name: KnightCharacterProfile
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1606182577138670, guid: 8a43aab1014dc42e098194c94644c461, type: 2}
+  portrait: {fileID: 1233259403759432, guid: 03806aec2f883449ebff65c1fd74871d, type: 2}
+  particle: {fileID: 0}
+  primary: {r: 0.18431373, g: 0.18431373, b: 0.18431373, a: 1}
+  secondary: {r: 0.30980393, g: 0.30980393, b: 0.30980393, a: 1}
+  buttonColor: {r: 0.38235295, g: 0.38235295, b: 0.38235295, a: 1}
+  textcol: {r: 1, g: 1, b: 1, a: 1}
+  priceOverride: 24000
+  isPurchased: 0
+  isLocked: 0
+  id: 25
+  rewardBonus: 4
+  jumpSound: {fileID: 8300000, guid: c6e8b11ee8d1a4aafb0b8cb5c3c2f6e1, type: 3}
+  jumpVoice: {fileID: 8300000, guid: baab8a3b1dd8445debd7ccbe9b7a34b2, type: 3}
+  fallVoice: {fileID: 8300000, guid: 100d2521cc7d544f4b637558e5fc335b, type: 3}
+  landSound: {fileID: 8300000, guid: 58e55e64878194b6b8b447dce1064066, type: 3}
+  specialVoice: {fileID: 8300000, guid: 832fdce0d69344225a793a5c69b75690, type: 3}
+  tapVoice: {fileID: 8300000, guid: cf12ac3c59f8347ce94503e029a1949a, type: 3}

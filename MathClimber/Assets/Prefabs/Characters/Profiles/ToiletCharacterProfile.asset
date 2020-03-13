@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62c56c0130ba1483d97d3bfe67d4dfbe, type: 3}
+  m_Name: ToiletCharacterProfile
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1318017169629762, guid: dd63599213031453e86612241739c588, type: 2}
+  portrait: {fileID: 1674934551730400, guid: fc36d5183cc51408da3e13afe3c0c10e, type: 2}
+  particle: {fileID: 0}
+  primary: {r: 0.49803925, g: 0.8588236, b: 0.9921569, a: 1}
+  secondary: {r: 0.70980394, g: 0.9294118, b: 0.9960785, a: 1}
+  buttonColor: {r: 0.70980394, g: 0.92941177, b: 0.99607843, a: 1}
+  textcol: {r: 0, g: 0, b: 0, a: 1}
+  priceOverride: 80000
+  isPurchased: 0
+  isLocked: 0
+  id: 36
+  rewardBonus: 6
+  jumpSound: {fileID: 8300000, guid: c6e8b11ee8d1a4aafb0b8cb5c3c2f6e1, type: 3}
+  jumpVoice: {fileID: 0}
+  fallVoice: {fileID: 8300000, guid: 6f8578c7b51334188b5f47ec31e262fa, type: 3}
+  landSound: {fileID: 8300000, guid: 58e55e64878194b6b8b447dce1064066, type: 3}
+  specialVoice: {fileID: 8300000, guid: 1fc48453b904b47d3ac439b02773214e, type: 3}
+  tapVoice: {fileID: 8300000, guid: c44b8166af3e6496abe2467aa93956a6, type: 3}

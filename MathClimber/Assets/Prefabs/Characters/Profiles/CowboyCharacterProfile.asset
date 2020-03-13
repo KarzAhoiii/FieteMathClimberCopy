@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62c56c0130ba1483d97d3bfe67d4dfbe, type: 3}
+  m_Name: CowboyCharacterProfile
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1670708623911568, guid: 3707c9cd877c44e639d1b482a03abb00, type: 2}
+  portrait: {fileID: 1535889366483922, guid: f45576bb62759489d8688b84a807a12f, type: 2}
+  particle: {fileID: 0}
+  primary: {r: 0.5764706, g: 0.38431376, b: 0.2392157, a: 1}
+  secondary: {r: 0.7019608, g: 0.47058827, b: 0.29411766, a: 1}
+  buttonColor: {r: 0.7019608, g: 0.47058824, b: 0.29411766, a: 1}
+  textcol: {r: 1, g: 1, b: 1, a: 1}
+  priceOverride: 4800
+  isPurchased: 0
+  isLocked: 0
+  id: 9
+  rewardBonus: 2
+  jumpSound: {fileID: 8300000, guid: c6e8b11ee8d1a4aafb0b8cb5c3c2f6e1, type: 3}
+  jumpVoice: {fileID: 8300000, guid: 7863c85f4f2a24762a5ee5302bcbfd85, type: 3}
+  fallVoice: {fileID: 8300000, guid: e6571965c4564418b9010050876cc818, type: 3}
+  landSound: {fileID: 8300000, guid: 58e55e64878194b6b8b447dce1064066, type: 3}
+  specialVoice: {fileID: 8300000, guid: 728d6d2a238654752a946787c1097270, type: 3}
+  tapVoice: {fileID: 8300000, guid: 95781eeefbeb04f518d5aedd37dc27d7, type: 3}

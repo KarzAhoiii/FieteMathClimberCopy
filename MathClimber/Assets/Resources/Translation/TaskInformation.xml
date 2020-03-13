@@ -1,0 +1,573 @@
+<data>
+	<item language="de">
+
+		<Zahlenraum10>Zahlen bis 10</Zahlenraum10>
+		<Zahlenraum20>Zahlen bis 20</Zahlenraum20>
+		<Zahlenraum100>Zahlen bis 100</Zahlenraum100>
+		<Zahlenraum1000>Zahlen bis 1000</Zahlenraum1000>
+		<Kernzahlen>Kernzahlen</Kernzahlen>
+		<Nachbarn01>Nachbarzahlen</Nachbarn01>
+		<Nachbarn02>Nachbarzahlen 02</Nachbarn02>
+		<Gemischt>Alle Zahlen</Gemischt>
+		<Plus>Addition</Plus>
+		<Mal>Multiplikation</Mal>
+		<Minus>Subtraktion</Minus>
+		<Geteilt>Division</Geteilt>
+		<GreaterThan>Zahl vorne Größer</GreaterThan>
+		<Same>Gleiche Zahlen</Same>
+		<SmallerThan>Zahl hinten Größer</SmallerThan>
+		<Equals>Erg. ist Zahlenraum</Equals>
+		<OneTimesOne>Einmaleins</OneTimesOne>
+		<tInfinite>Unendlich Zeit</tInfinite>
+		<t5>5 Sekunden</t5>
+		<t15>15 Sekunden</t15>
+		<t30>30 Sekunden</t30>
+		<KeinDaten>Keine erkannt</KeinDaten>
+		<NichtGekauft>Nicht gekauft</NichtGekauft>
+		<_1x1_1>Einser Reihe</_1x1_1>
+		<_1x1_2>Zweier Reihe</_1x1_2>
+		<_1x1_3>Dreier Reihe</_1x1_3>
+		<_1x1_4>Vierer Reihe</_1x1_4>
+		<_1x1_5>Fünfer Reihe</_1x1_5>
+		<_1x1_6>Sechser Reihe</_1x1_6>
+		<_1x1_7>Siebener Reihe</_1x1_7>
+		<_1x1_8>Achter Reihe</_1x1_8>
+		<_1x1_9>Neuner Reihe</_1x1_9>
+		<_1x1_10>Zehner Reihe</_1x1_10>
+    
+    </item>
+    
+	<item language="en">
+
+		<Zahlenraum10>Numbers up to 10</Zahlenraum10>
+		<Zahlenraum20>Numbers up to 20</Zahlenraum20>
+		<Zahlenraum100>Numbers up to 100</Zahlenraum100>
+		<Zahlenraum1000>Numbers up to 1000</Zahlenraum1000>
+		<Kernzahlen>Core figures</Kernzahlen>
+		<Nachbarn01>Neighboring numbers</Nachbarn01>
+		<Nachbarn02>Neighboring numbers 02</Nachbarn02>
+		<Gemischt>All numbers</Gemischt>
+		<Plus>Addition</Plus>
+		<Mal>Multiplication</Mal>
+		<Minus>Subtraction</Minus>
+		<Geteilt>Division</Geteilt>
+		<GreaterThan>Next number larger</GreaterThan>
+		<Same>Same numbers</Same>
+		<SmallerThan>Previous number larger</SmallerThan>
+		<Equals>Result=Number range</Equals>
+		<OneTimesOne>Multiplication table</OneTimesOne>
+		<tInfinite>No time limit</tInfinite>
+		<t5>5 seconds</t5>
+		<t15>15 seconds</t15>
+		<t30>30 seconds</t30>
+		<KeinDaten>None detected</KeinDaten>
+		<NichtGekauft>Not purchased</NichtGekauft>
+		<_1x1_1>Ones</_1x1_1>
+		<_1x1_2>Twos</_1x1_2>
+		<_1x1_3>Threes</_1x1_3>
+		<_1x1_4>Fours</_1x1_4>
+		<_1x1_5>Fives</_1x1_5>
+		<_1x1_6>Sixes</_1x1_6>
+		<_1x1_7>Sevens</_1x1_7>
+		<_1x1_8>Eights</_1x1_8>
+		<_1x1_9>Nines</_1x1_9>
+		<_1x1_10>Tens</_1x1_10>
+
+	</item>
+
+
+	<item language="zh">
+
+		<Zahlenraum10>10 以内数字</Zahlenraum10>
+		<Zahlenraum20>20 以内数字</Zahlenraum20>
+		<Zahlenraum100>100 以内数字</Zahlenraum100>
+		<Zahlenraum1000>1000 以内数字</Zahlenraum1000>
+		<Kernzahlen>核心数</Kernzahlen>
+		<Nachbarn01>相邻数</Nachbarn01>
+		<Nachbarn02>相邻数 02</Nachbarn02>
+		<Gemischt>全部数字</Gemischt>
+		<Plus>加法</Plus>
+		<Mal>乘法</Mal>
+		<Minus>减法</Minus>
+		<Geteilt>除法</Geteilt>
+		<GreaterThan>前方数字更大</GreaterThan>
+		<Same>相等数字</Same>
+		<SmallerThan>后方数字更大</SmallerThan>
+		<Equals>结果 = 数字区间</Equals>
+		<OneTimesOne>乘法表</OneTimesOne>
+		<tInfinite>不限时间</tInfinite>
+		<t5>5 秒钟</t5>
+		<t15>15 秒钟</t15>
+		<t30>30 秒钟</t30>
+		<KeinDaten>未发现</KeinDaten>
+		<NichtGekauft>未购买</NichtGekauft>
+		<_1x1_1>第 1 列</_1x1_1>
+		<_1x1_2>第 2 列</_1x1_2>
+		<_1x1_3>第 3 列</_1x1_3>
+		<_1x1_4>第 4 列</_1x1_4>
+		<_1x1_5>第 5 列</_1x1_5>
+		<_1x1_6>第 6 列</_1x1_6>
+		<_1x1_7>第 7 列</_1x1_7>
+		<_1x1_8>第 8 列</_1x1_8>
+		<_1x1_9>第 9 列</_1x1_9>
+		<_1x1_10>第 10 列</_1x1_10>
+
+	</item>
+
+
+	<item language="da">
+
+		<Zahlenraum10>Tallene op til 10</Zahlenraum10>
+		<Zahlenraum20>Tallene op til 20</Zahlenraum20>
+		<Zahlenraum100>Tallene op til 100</Zahlenraum100>
+		<Zahlenraum1000>Tallene op til 1000</Zahlenraum1000>
+		<Kernzahlen>kernetal</Kernzahlen>
+		<Nachbarn01>nabotal</Nachbarn01>
+		<Nachbarn02>nabotal 02</Nachbarn02>
+		<Gemischt>Alle tal</Gemischt>
+		<Plus>Addition</Plus>
+		<Mal>Multiplikation</Mal>
+		<Minus>Subtraktion</Minus>
+		<Geteilt>Division</Geteilt>
+		<GreaterThan>Første tal større</GreaterThan>
+		<Same>Samme tal</Same>
+		<SmallerThan>Bagerste tal større</SmallerThan>
+		<Equals>Resultat = talområde</Equals>
+		<OneTimesOne>Den lille tabel</OneTimesOne>
+		<tInfinite>Uendelig tid</tInfinite>
+		<t5>5 sekunder</t5>
+		<t15>15 sekunder</t15>
+		<t30>30 sekunder</t30>
+		<KeinDaten>Ingen fundet</KeinDaten>
+		<NichtGekauft>Ikke købt</NichtGekauft>
+		<_1x1_1>1-tabellen</_1x1_1>
+		<_1x1_2>2-tabellen</_1x1_2>
+		<_1x1_3>3-tabellen</_1x1_3>
+		<_1x1_4>4-tabellen</_1x1_4>
+		<_1x1_5>5-tabellen</_1x1_5>
+		<_1x1_6>6-tabellen</_1x1_6>
+		<_1x1_7>7-tabellen</_1x1_7>
+		<_1x1_8>8-tabellen</_1x1_8>
+		<_1x1_9>9-tabellen</_1x1_9>
+		<_1x1_10>10-tabellen</_1x1_10>
+
+	</item>
+
+	<item language="nl">
+
+		<Zahlenraum10>Tellen tot 10</Zahlenraum10>
+		<Zahlenraum20>Tellen tot 20</Zahlenraum20>
+		<Zahlenraum100>Tellen tot 100</Zahlenraum100>
+		<Zahlenraum1000>Tellen tot 1000</Zahlenraum1000>
+		<Kernzahlen>Basiscijfers</Kernzahlen>
+		<Nachbarn01>Aanliggende cijfers</Nachbarn01>
+		<Nachbarn02>Aanliggende cijfers 02</Nachbarn02>
+		<Gemischt>Alle cijfers</Gemischt>
+		<Plus>Opsomming</Plus>
+		<Mal>Vermenigvuldigen</Mal>
+		<Minus>Aftrekken</Minus>
+		<Geteilt>Delen</Geteilt>
+		<GreaterThan>Cijfer vooraan groter</GreaterThan>
+		<Same>Gelijke cijfers</Same>
+		<SmallerThan>Cijfer achteraan groter</SmallerThan>
+		<Equals>Resultaat = cijfers</Equals>
+		<OneTimesOne>Tafels van vermenigvuldiging</OneTimesOne>
+		<tInfinite>Oneindig tijd</tInfinite>
+		<t5>5 seconden</t5>
+		<t15>10 seconden</t15>
+		<t30>30 seconden</t30>
+		<KeinDaten>Geen herkend</KeinDaten>
+		<NichtGekauft>Niet gekocht</NichtGekauft>
+		<_1x1_1>1ste rij</_1x1_1>
+		<_1x1_2>2de rij</_1x1_2>
+		<_1x1_3>3de rij</_1x1_3>
+		<_1x1_4>4de rij</_1x1_4>
+		<_1x1_5>5de rij</_1x1_5>
+		<_1x1_6>6de rij</_1x1_6>
+		<_1x1_7>7de rij</_1x1_7>
+		<_1x1_8>8de rij</_1x1_8>
+		<_1x1_9>9de rij</_1x1_9>
+		<_1x1_10>10de rij</_1x1_10>
+
+	</item>
+
+	<item language="fr">
+
+		<Zahlenraum10>Nombres jusqu’à 10</Zahlenraum10>
+		<Zahlenraum20>Nombres jusqu’à 20</Zahlenraum20>
+		<Zahlenraum100>Nombres jusqu’à 100</Zahlenraum100>
+		<Zahlenraum1000>Nombres jusqu’à 1000</Zahlenraum1000>
+		<Kernzahlen>Nombres de base</Kernzahlen>
+		<Nachbarn01>Nombres voisins</Nachbarn01>
+		<Nachbarn02>Nombres voisins 02</Nachbarn02>
+		<Gemischt>Tous les nombres</Gemischt>
+		<Plus>Addition</Plus>
+		<Mal>Multiplication</Mal>
+		<Minus>Soustraction</Minus>
+		<Geteilt>Division</Geteilt>
+		<GreaterThan>Nombre précédent plus grand</GreaterThan>
+		<Same>Mêmes nombres</Same>
+		<SmallerThan>Nombre suivant plus grand</SmallerThan>
+		<Equals>Résultat = bande numérique</Equals>
+		<OneTimesOne>Table de multiplication</OneTimesOne>
+		<tInfinite>Temps infini</tInfinite>
+		<t5>5 secondes</t5>
+		<t15>15 secondes</t15>
+		<t30>30 secondes</t30>
+		<KeinDaten>Rien n’a été reconnu</KeinDaten>
+		<NichtGekauft>Non acheté</NichtGekauft>
+		<_1x1_1>Valeur 1</_1x1_1>
+		<_1x1_2>Valeur 2</_1x1_2>
+		<_1x1_3>Valeur 3</_1x1_3>
+		<_1x1_4>Valeur 4</_1x1_4>
+		<_1x1_5>Valeur 5</_1x1_5>
+		<_1x1_6>Valeur 6</_1x1_6>
+		<_1x1_7>Valeur 7</_1x1_7>
+		<_1x1_8>Valeur 8</_1x1_8>
+		<_1x1_9>Valeur 9</_1x1_9>
+		<_1x1_10>Valeur 10</_1x1_10>
+
+	</item>
+
+	<item language="it">
+
+		<Zahlenraum10>Numeri fino a 10</Zahlenraum10>
+		<Zahlenraum20>Numeri fino a 20</Zahlenraum20>
+		<Zahlenraum100>Numeri fino a 100</Zahlenraum100>
+		<Zahlenraum1000>Numeri fino a 1000</Zahlenraum1000>
+		<Kernzahlen>Numeri di base</Kernzahlen>
+		<Nachbarn01>Numeri vicini</Nachbarn01>
+		<Nachbarn02>Numeri vicini 02</Nachbarn02>
+		<Gemischt>Tutti i numeri</Gemischt>
+		<Plus>Addizione</Plus>
+		<Mal>Moltiplicazione</Mal>
+		<Minus>Sottrazione</Minus>
+		<Geteilt>Divisione</Geteilt>
+		<GreaterThan>Numero davanti maggiore</GreaterThan>
+		<Same>Numeri pari</Same>
+		<SmallerThan>Numero dietro minore</SmallerThan>
+		<Equals>Risultato = serie di numeri</Equals>
+		<OneTimesOne>Tavola pitagorica</OneTimesOne>
+		<tInfinite>Tempo infinito</tInfinite>
+		<t5>5 secondi</t5>
+		<t15>15 secondi</t15>
+		<t30>30 secondi</t30>
+		<KeinDaten>Nessuno riconosciuto</KeinDaten>
+		<NichtGekauft>Non acquistato</NichtGekauft>
+		<_1x1_1>1a serie</_1x1_1>
+		<_1x1_2>2a serie</_1x1_2>
+		<_1x1_3>3a serie</_1x1_3>
+		<_1x1_4>4a serie</_1x1_4>
+		<_1x1_5>5a serie</_1x1_5>
+		<_1x1_6>6a serie</_1x1_6>
+		<_1x1_7>7a serie</_1x1_7>
+		<_1x1_8>8a serie</_1x1_8>
+		<_1x1_9>9a serie</_1x1_9>
+		<_1x1_10>10a serie</_1x1_10>
+
+	</item>
+
+	<item language="ja">
+
+		<Zahlenraum10>10までの数字</Zahlenraum10>
+		<Zahlenraum20>20までの数字</Zahlenraum20>
+		<Zahlenraum100>100までの数字</Zahlenraum100>
+		<Zahlenraum1000>1000までの数字</Zahlenraum1000>
+		<Kernzahlen>5の倍数</Kernzahlen>
+		<Nachbarn01>5の倍数の隣の数</Nachbarn01>
+		<Nachbarn02>5の倍数の隣の隣の数</Nachbarn02>
+		<Gemischt>全ての数</Gemischt>
+		<Plus>足し算</Plus>
+		<Mal>引き算</Mal>
+		<Minus>掛け算</Minus>
+		<Geteilt>割り算</Geteilt>
+		<GreaterThan>まえの数が大きい</GreaterThan>
+		<Same>数が同じ</Same>
+		<SmallerThan>後ろの数が大きい</SmallerThan>
+		<Equals>計算の結果＝設定した数の範囲内</Equals>
+		<OneTimesOne>九九</OneTimesOne>
+		<tInfinite>時間無制限</tInfinite>
+		<t5>5秒</t5>
+		<t15>15秒</t15>
+		<t30>30秒</t30>
+		<KeinDaten>結果なし</KeinDaten>
+		<NichtGekauft>購入していません</NichtGekauft>
+		<_1x1_1>1の段</_1x1_1>
+		<_1x1_2>2の段</_1x1_2>
+		<_1x1_3>3の段</_1x1_3>
+		<_1x1_4>4の段</_1x1_4>
+		<_1x1_5>5の段</_1x1_5>
+		<_1x1_6>6の段</_1x1_6>
+		<_1x1_7>7の段</_1x1_7>
+		<_1x1_8>8の段</_1x1_8>
+		<_1x1_9>9の段</_1x1_9>
+		<_1x1_10>10の段10 以内数字</_1x1_10>
+
+	</item>
+
+	<item language="ko">
+
+		<Zahlenraum10>10까지 세기</Zahlenraum10>
+		<Zahlenraum20>20까지 세기</Zahlenraum20>
+		<Zahlenraum100>100까지 세기</Zahlenraum100>
+		<Zahlenraum1000>1000까지 세기</Zahlenraum1000>
+		<Kernzahlen>주요숫자</Kernzahlen>
+		<Nachbarn01>이웃숫자</Nachbarn01>
+		<Nachbarn02>이웃숫자 02</Nachbarn02>
+		<Gemischt>모든숫자</Gemischt>
+		<Plus>덧셈</Plus>
+		<Mal>곱셈</Mal>
+		<Minus>뺄셈</Minus>
+		<Geteilt>나눗셈</Geteilt>
+		<GreaterThan>큰 수부터</GreaterThan>
+		<Same>같은 수</Same>
+		<SmallerThan>작은 수부터</SmallerThan>
+		<Equals>결과 = 숫자범위</Equals>
+		<OneTimesOne>구구단</OneTimesOne>
+		<tInfinite>제한시간 없음</tInfinite>
+		<t5>5초</t5>
+		<t15>15초</t15>
+		<t30>30초</t30>
+		<KeinDaten>식별 불가</KeinDaten>
+		<NichtGekauft>구입 안 함</NichtGekauft>
+		<_1x1_1>1단</_1x1_1>
+		<_1x1_2>2단</_1x1_2>
+		<_1x1_3>3단</_1x1_3>
+		<_1x1_4>4단</_1x1_4>
+		<_1x1_5>5단</_1x1_5>
+		<_1x1_6>6단</_1x1_6>
+		<_1x1_7>7단</_1x1_7>
+		<_1x1_8>8단</_1x1_8>
+		<_1x1_9>9단</_1x1_9>
+		<_1x1_10>10단</_1x1_10>
+
+	</item>
+
+	<item language="pt">
+
+		<Zahlenraum10>Números até 10</Zahlenraum10>
+		<Zahlenraum20>Números até 20</Zahlenraum20>
+		<Zahlenraum100>Números até 100</Zahlenraum100>
+		<Zahlenraum1000>Números até 1000</Zahlenraum1000>
+		<Kernzahlen>Números de base</Kernzahlen>
+		<Nachbarn01>Números vizinhos</Nachbarn01>
+		<Nachbarn02>Números vizinhos 02</Nachbarn02>
+		<Gemischt>Todos os números</Gemischt>
+		<Plus>Adição</Plus>
+		<Mal>Multiplicação</Mal>
+		<Minus>Subtração</Minus>
+		<Geteilt>Divisão</Geteilt>
+		<GreaterThan>Primeiro número maior</GreaterThan>
+		<Same>Números iguais</Same>
+		<SmallerThan>Último número maior</SmallerThan>
+		<Equals>Resultado = Sequência numérica</Equals>
+		<OneTimesOne>Tabuada</OneTimesOne>
+		<tInfinite>Tempo ilimitado</tInfinite>
+		<t5>5 segundos</t5>
+		<t15>15 segundos</t15>
+		<t30>30 segundos</t30>
+		<KeinDaten>Não identificou nenhuns</KeinDaten>
+		<NichtGekauft>Não comprou</NichtGekauft>
+		<_1x1_1>tabuada do 1</_1x1_1>
+		<_1x1_2>tabuada do 2</_1x1_2>
+		<_1x1_3>tabuada do 3</_1x1_3>
+		<_1x1_4>tabuada do 4</_1x1_4>
+		<_1x1_5>tabuada do 5</_1x1_5>
+		<_1x1_6>tabuada do 6</_1x1_6>
+		<_1x1_7>tabuada do 7</_1x1_7>
+		<_1x1_8>tabuada do 8</_1x1_8>
+		<_1x1_9>tabuada do 9</_1x1_9>
+		<_1x1_10>tabuada do 10</_1x1_10>
+
+	</item>
+
+	<item language="ru">
+
+		<Zahlenraum10>Числа до 10</Zahlenraum10>
+		<Zahlenraum20>Числа до 20</Zahlenraum20>
+		<Zahlenraum100>Числа до 100</Zahlenraum100>
+		<Zahlenraum1000>Числа до 1000</Zahlenraum1000>
+		<Kernzahlen>Опорные числа:</Kernzahlen>
+		<Nachbarn01>Соседние числа</Nachbarn01>
+		<Nachbarn02>Соседние числа 02</Nachbarn02>
+		<Gemischt>Все числа</Gemischt>
+		<Plus>Сложение</Plus>
+		<Mal>Умножение</Mal>
+		<Minus>Вычитание</Minus>
+		<Geteilt>Деление</Geteilt>
+		<GreaterThan>Число впереди больше</GreaterThan>
+		<Same>Одинаковые числа</Same>
+		<SmallerThan>Число сзади больше</SmallerThan>
+		<Equals>Результат = числовой диапазон</Equals>
+		<OneTimesOne>Таблица умножения</OneTimesOne>
+		<tInfinite>Неограниченное время</tInfinite>
+		<t5>5 секунд</t5>
+		<t15>15 секунд</t15>
+		<t30>30 секунд</t30>
+		<KeinDaten>Не обнаружено</KeinDaten>
+		<NichtGekauft>Не куплено</NichtGekauft>
+		<_1x1_1>Последовательность 1</_1x1_1>
+		<_1x1_2>Последовательность 2</_1x1_2>
+		<_1x1_3>Последовательность 3</_1x1_3>
+		<_1x1_4>Последовательность 4</_1x1_4>
+		<_1x1_5>Последовательность 5</_1x1_5>
+		<_1x1_6>Последовательность 6</_1x1_6>
+		<_1x1_7>Последовательность 7</_1x1_7>
+		<_1x1_8>Последовательность 8</_1x1_8>
+		<_1x1_9>Последовательность 9</_1x1_9>
+		<_1x1_10>Последовательность 10</_1x1_10>
+
+	</item>
+
+	<item language="es">
+
+		<Zahlenraum10>Números hasta 10</Zahlenraum10>
+		<Zahlenraum20>Números hasta 20</Zahlenraum20>
+		<Zahlenraum100>Números hasta 100</Zahlenraum100>
+		<Zahlenraum1000>Números hasta 1000</Zahlenraum1000>
+		<Kernzahlen>Números centrales</Kernzahlen>
+		<Nachbarn01>Números anteriores y posteriores</Nachbarn01>
+		<Nachbarn02>Números anteriores y posteriores</Nachbarn02>
+		<Gemischt>Todos los números</Gemischt>
+		<Plus>Suma</Plus>
+		<Mal>Multiplicación</Mal>
+		<Minus>Resta</Minus>
+		<Geteilt>División</Geteilt>
+		<GreaterThan>Número de delante superior</GreaterThan>
+		<Same>Mismos números</Same>
+		<SmallerThan>Número de detrás superior</SmallerThan>
+		<Equals>Resultado = rango de números</Equals>
+		<OneTimesOne>Tabla de multiplicar</OneTimesOne>
+		<tInfinite>Tiempo ilimitado</tInfinite>
+		<t5>5 segundos</t5>
+		<t15>15 segundos</t15>
+		<t30>30 segundos</t30>
+		<KeinDaten>Ninguno reconocido</KeinDaten>
+		<NichtGekauft>No comprado</NichtGekauft>
+		<_1x1_1>Tabla del 1</_1x1_1>
+		<_1x1_2>Tabla del 2</_1x1_2>
+		<_1x1_3>Tabla del 3</_1x1_3>
+		<_1x1_4>Tabla del 4</_1x1_4>
+		<_1x1_5>Tabla del 5</_1x1_5>
+		<_1x1_6>Tabla del 6</_1x1_6>
+		<_1x1_7>Tabla del 7</_1x1_7>
+		<_1x1_8>Tabla del 8</_1x1_8>
+		<_1x1_9>Tabla del 9</_1x1_9>
+		<_1x1_10>Tabla del 10</_1x1_10>
+
+	</item>
+
+	<item language="sv">
+
+		<Zahlenraum10>Tal upp till 10</Zahlenraum10>
+		<Zahlenraum20>Tal upp till 20</Zahlenraum20>
+		<Zahlenraum100>Tal upp till 100</Zahlenraum100>
+		<Zahlenraum1000>Tal upp till 1000</Zahlenraum1000>
+		<Kernzahlen>Utgångstal</Kernzahlen>
+		<Nachbarn01>Granntal</Nachbarn01>
+		<Nachbarn02>Granntal 02</Nachbarn02>
+		<Gemischt>Alla tal</Gemischt>
+		<Plus>Addition</Plus>
+		<Mal>Multiplikation</Mal>
+		<Minus>Subtraktion</Minus>
+		<Geteilt>Division</Geteilt>
+		<GreaterThan>Första siffran större</GreaterThan>
+		<Same>Samma siffror</Same>
+		<SmallerThan>Sista siffran större</SmallerThan>
+		<Equals>Resultat = talomfång</Equals>
+		<OneTimesOne>Multiplikationstabell</OneTimesOne>
+		<tInfinite>Obegränsat med tid</tInfinite>
+		<t5>5 sekunder</t5>
+		<t15>15 sekunder</t15>
+		<t30>30 sekunder</t30>
+		<KeinDaten>Inte sett några</KeinDaten>
+		<NichtGekauft>Ej köpt</NichtGekauft>
+		<_1x1_1>1:a raden</_1x1_1>
+		<_1x1_2>2:a raden</_1x1_2>
+		<_1x1_3>3:e raden</_1x1_3>
+		<_1x1_4>4:e raden</_1x1_4>
+		<_1x1_5>5:e raden</_1x1_5>
+		<_1x1_6>6:e raden</_1x1_6>
+		<_1x1_7>7:e raden</_1x1_7>
+		<_1x1_8>8:e raden</_1x1_8>
+		<_1x1_9>9:e raden</_1x1_9>
+		<_1x1_10>10:e raden</_1x1_10>
+
+	</item>
+
+	<item language="th">
+
+		<Zahlenraum10>จำนวนถึง 10</Zahlenraum10>
+		<Zahlenraum20>จำนวนถึง 20</Zahlenraum20>
+		<Zahlenraum100>จำนวนถึง 100</Zahlenraum100>
+		<Zahlenraum1000>จำนวนถึง 1000</Zahlenraum1000>
+		<Kernzahlen>ตัวเลข</Kernzahlen>
+		<Nachbarn01>ตัวเลขใกล้เคียง</Nachbarn01>
+		<Nachbarn02>ตัวเลขใกล้เคียง 02</Nachbarn02>
+		<Gemischt>ตัวเลขทั้งหมด</Gemischt>
+		<Plus>การบวก</Plus>
+		<Mal>การคูณ</Mal>
+		<Minus>การลบ</Minus>
+		<Geteilt>การหาร</Geteilt>
+		<GreaterThan>ตัวเลขด้านหน้าใหญ่กว่า</GreaterThan>
+		<Same>ตัวเลขเดียวกัน</Same>
+		<SmallerThan>ตัวเลขด้านหลังใหญ่กว่า</SmallerThan>
+		<Equals>ผลลัพธ์ = ช่วงจำนวน</Equals>
+		<OneTimesOne>สูตรคูณ</OneTimesOne>
+		<tInfinite>ไม่จำกัดเวลา</tInfinite>
+		<t5>5 วินาที</t5>
+		<t15>15 วินาที</t15>
+		<t30>30 วินาที</t30>
+		<KeinDaten>ไม่รู้จัก</KeinDaten>
+		<NichtGekauft>ไม่ได้ซื้อ</NichtGekauft>
+		<_1x1_1>แถวที่ 1</_1x1_1>
+		<_1x1_2>แถวที่ 2</_1x1_2>
+		<_1x1_3>แถวที่ 3</_1x1_3>
+		<_1x1_4>แถวที่ 4</_1x1_4>
+		<_1x1_5>แถวที่ 5</_1x1_5>
+		<_1x1_6>แถวที่ 6</_1x1_6>
+		<_1x1_7>แถวที่ 7</_1x1_7>
+		<_1x1_8>แถวที่ 8</_1x1_8>
+		<_1x1_9>แถวที่ 9</_1x1_9>
+		<_1x1_10>แถวที่ 10</_1x1_10>
+
+	</item>
+
+	<item language="tr">
+
+		<Zahlenraum10>10’a kadar sayılar</Zahlenraum10>
+		<Zahlenraum20>20’ye kadar sayılar</Zahlenraum20>
+		<Zahlenraum100>100’e kadar sayılar</Zahlenraum100>
+		<Zahlenraum1000>1000’e kadar sayılar</Zahlenraum1000>
+		<Kernzahlen>Temel sayılar</Kernzahlen>
+		<Nachbarn01>Komşu sayılar</Nachbarn01>
+		<Nachbarn02>Komşu sayılar 02</Nachbarn02>
+		<Gemischt>Tüm sayılar</Gemischt>
+		<Plus>Toplama</Plus>
+		<Mal>Çarpma</Mal>
+		<Minus>Çıkarma</Minus>
+		<Geteilt>Bölme</Geteilt>
+		<GreaterThan>Önde daha büyük sayı</GreaterThan>
+		<Same>Aynı sayılar</Same>
+		<SmallerThan>Arkada daha büyük sayı</SmallerThan>
+		<Equals>Sonuç = Sayı aralığı</Equals>
+		<OneTimesOne>Çarpım tablosu</OneTimesOne>
+		<tInfinite>Süresiz zaman</tInfinite>
+		<t5>5 saniye</t5>
+		<t15>15 saniye</t15>
+		<t30>30 saniye</t30>
+		<KeinDaten>Hiçbiri bilinmedi</KeinDaten>
+		<NichtGekauft>Satın alınmadı</NichtGekauft>
+		<_1x1_1>1’li sıra</_1x1_1>
+		<_1x1_2>2’li sıra</_1x1_2>
+		<_1x1_3>3’lü sıra</_1x1_3>
+		<_1x1_4>4’lü sıra</_1x1_4>
+		<_1x1_5>5’li sıra</_1x1_5>
+		<_1x1_6>6’lı sıra</_1x1_6>
+		<_1x1_7>7’li sıra</_1x1_7>
+		<_1x1_8>8’li sıra</_1x1_8>
+		<_1x1_9>9’lu sıra</_1x1_9>
+		<_1x1_10>10’lu sıra</_1x1_10>
+
+	</item>
+</data>
